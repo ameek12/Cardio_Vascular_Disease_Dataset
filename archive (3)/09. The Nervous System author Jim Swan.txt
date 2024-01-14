@@ -1,0 +1,3003 @@
+Audio File for Entire
+
+PDF
+
+in Real Media Format
+
+3:25 pm, Apr 07, 2008
+
+Explanatory Notes and
+
+[Look for Links]
+
+Attachments
+
+1
+
+© Jim Swan
+
+These slides are from class presentations, reformatted for static viewing. The content contained in these pages is also in the Class Notes pages in a narrative format. Best screen resolution for viewing is 1024 x 768. To change resolution click on start, then control panel, then display, then settings.
+
+If you are viewing this in Adobe Reader version 7 and are connected to the internet you will also be able to access the
+
+“enriched” links to notes and comments, as well as web pages including animations and videos. You will also be able to make your own notes and comments on the pages.
+
+Download the free reader from [Adobe.com]
+
+1
+
+
+
+Functions of the Nervous System
+
+1) Integration of body processes
+
+2) Control of voluntary effectors (skeletal muscles), and mediation of voluntary reflexes.
+
+3) Control of involuntary effectors ( smooth muscle, cardiac muscle, glands) and mediation of autonomic reflexes (heart rate, blood pressure, glandular secretion, etc.)
+
+4) Response to stimuli
+
+5) Responsible for conscious thought and perception, emotions, personality, the mind.
+
+2
+
+These functions relate to control of the skeletal muscles discussed in Unit 2
+
+as well as future discussion of reflexes, the brain, and the autonomic nervous system.
+
+2
+
+
+
+
+
+Structural Divisions
+
+of the Nervous System
+
+Central Nervous System (CNS)
+
+Brain
+
+Spinal Cord
+
+Peripheral Nervous System (PNS)
+
+nerves, ganglia, receptors
+
+3
+
+The central nervous system develops from the neural tube, while the peripheral nervous system develops from the neural crest cells.
+
+3
+
+
+
+Functional Divisions
+
+of the Nervous System
+
+1) The Voluntary Nervous System - (a.k.a. somatic division) willful control of effectors (skeletal muscles), and conscious perception.
+
+Mediates voluntary reflexes.
+
+2) The Autonomic Nervous System - control of autonomic effectors - smooth muscles, cardiac muscle, glands.
+
+Responsible for "visceral" reflexes.
+
+4
+
+The functional divisions and structural divisions overlap, i.e. the voluntary and autonomic nervous systems both use portions of the CNS and PNS.
+
+4
+
+
+
+Cells in the Nervous System
+
+1) Neurons - the functional cells of the nervous system. See below.
+
+2) Neuroglia (glial cells) - Long described as supporting cells of the nervous system, there is also a functional interdependence of neuroglial cells and neurons.
+
+5
+
+1) Neurons come in several varieties which we will cover shortly.
+
+2) Neuroglia (glial cells) - Long described as supporting cells of the nervous system, there is also a functional interdependence of neuroglial cells and neurons. [See Glioma Tumors]
+
+5
+
+
+
+
+
+Figure 8-1
+
+Types of Glial Cells – the CNS
+
+astrocytes - these cells anchor
+
+microglia - these cells
+
+neurons to blood vessels, regulate the
+
+are phagocytic to defend
+
+micro-environment of neurons, and
+
+against pathogens. They
+
+regulate transport of nutrients and
+
+may also monitor the
+
+wastes to and from neurons. Part of
+
+condition of neurons.
+
+“Blood-brain Barrier”.
+
+6
+
+These glial cells look a lot like neurons in their structure. But they are derived mostly from the ectoderm and have supporting functions.
+
+Astrocytes are only part of the basis for the “Blood-Brain” barrier. The capillaries of in the brain have extremely tight junctions. Substances must pass through the capillary wall cells by endocytosis and exocytosis. Also known as spyder cells due to their structure.
+
+Microglia function as macrophages when they migrate to damaged brain tissue. Also known as gitter cells, they are often packed with lipoid granules from phagocytosis of damaged brain cells.
+
+6
+
+
+
+
+
+Figure 8-1
+
+Glial Cells of the CNS (contd.)
+
+ependymal cells - these cells
+
+line the fluid-filled cavities of
+
+the brain and spinal cord. They
+
+oligodendrocyte - produce
+
+play a role in production,
+
+the myelin sheath in the CNS
+
+transport, and circulation of the
+
+which insulates and protects
+
+cerebrospinal fluid.
+
+axons.
+
+7
+
+Note the processes on the ependymal cells. They possess stereocilia, which are a combination of cilia and microvilli. They provide the surface area for secretion and absorption to manage the cerebrospinal fluid, and they help to circulate the fluid by their movement.
+
+The name of the oligodendrocytes means “few processes”. These cells wrap around CNS neurons to produce the myelin sheath. The sheath in PNS
+
+is produced by Schwann cells. Diseases which destroy the myelin sheath lead to inability to control muscles, perceive stimuli etc. One such disease is
+
+[multiple sclerosis], an autoimmune disorder in which your own lymphocytes attack the myelin proteins.
+
+7
+
+
+
+
+
+Glial Cells: Astrocytes
+
+Astrocytes are
+
+star-shaped glial
+
+cells of the CNS
+
+which contribute
+
+to the
+
+blood-brain
+
+barrier.
+
+8
+
+Note the star pattern of these cells, which reach out to connect to both capillaries and neurons.
+
+8
+
+
+
+
+
+Astrocytes and Capillaries
+
+Astrocytes
+
+Capillaries
+
+9
+
+Note their close relationship to capillaries, the heavy black structures. Since astrocytes touch both capillaries and neurons, they are thought to play an important intermediary role in the nutrition and metabolism of neurons.
+
+9
+
+
+
+
+
+Ependymal Cells
+
+Line Cavities in the CNS
+
+The central canal in
+
+the spinal cord
+
+contains
+
+cerebrospinal fluid
+
+(CSF) and its lumen
+
+is lined with
+
+ependymal cells.
+
+10
+
+Note the tiny stereocilia of the ependymal cells.
+
+10
+
+
+
+
+
+Figure 8-1
+
+PNS Glial Cells
+
+satellite cells - surround cell bodies of neurons in ganglia. Their role is to maintain the micro-environment and provide insulation for the ganglion cells.
+
+Schwann cells - produce the myelin sheath in the PNS.
+
+The myelin sheath protects and insulates axons, maintains their micro-environment, and enables them to regenerate and re-establish connection with receptors or effectors.
+
+Enables saltatory conduction.
+
+11
+
+Satellite cells are important in many tissues in providing for repair or replacement of damaged cells.
+
+Schwann cells grow around the nerve fibers in the embryo, forming concentric layers called the myelin sheath.
+
+11
+
+
+
+
+
+Satellite Cells
+
+are Glial Cells in the Dorsal Root
+
+Ganglion
+
+A high
+
+magnification
+
+shows the
+
+satellite cells
+
+which surround
+
+the nuclei of
+
+dorsal root
+
+ganglion cells.
+
+12
+
+This is a section of a spinal or dorsal root ganglion which contain the cell bodies for spinal sensory cells.
+
+12
+
+
+
+
+
+Schwann Cells
+
+Schwann cell
+
+Schwann cell
+
+nucleus
+
+cytoplasm
+
+Neurilemma – the outer
+
+layer of the Schwann cell
+
+Myelin sheath – inner wrappings
+
+of the Schwann cell
+
+13
+
+Figure 11.5
+
+Schwann cells are glial cells which produce the myelin sheath in peripheral nerve fibers. A myelinated fiber is one with many layers of Schwann cell wrappings. The myelin sheath insulates fibers and, as we will see later, provide for more rapid conduction (saltatory conduction) and the ability of regeneration after injury. Because of the way they wrap with secreted myelin between the layers, this is referred to as the jelly roll hypothesis.
+
+13
+
+
+
+
+
+C.S. Myelinated Fibers
+
+Axons
+
+Small myelinated fibers
+
+Myelin sheath
+
+14
+
+In this nerve cross section most of the axon fibers are seen to be myelinated, surrounded by a myelin sheath composed of Schwann cells.
+
+14
+
+
+
+
+
+Neuron Structure
+
+Cell body (cyton)
+
+Contains Nissl
+
+Contains Nissl s
+
+s ubstance:
+
+ubstance:
+
+bios
+
+bios y
+
+y n
+
+n th
+
+th etic machiner
+
+etic machiner y
+
+y
+
+and organelles –
+
+and organelles – mostl
+
+mostl y
+
+y
+
+rough e.r.
+
+rough e.r.
+
+Nucleus
+
+15
+
+Figure 11.4
+
+In order to connect to other cells, receptors, and effectors, neurons have cytoplasmic extensions which attach to an enlarged area known as the cell body or cyton. Within the cell body is the nucleus and the neuron's biosynthetic machinery, the rough endoplasmic reticulum and the Golgi bodies. These organelles are so highly concentrated they can be visualized with a light microscope when stained with a specific technique. Called Nissl substance after the scientist who invented the staining technique, they manufacture the neurotransmitters which the neuron must secrete in large quantities. The neurotransmitter molecules are transported to the axon terminus by microfilaments and microtubules.
+
+15
+
+
+
+
+
+Neuron Structure
+
+Cell body (cyton)
+
+Cytoplasmic extensions:
+
+Dendrites
+
+Axon
+
+Nucleus
+
+16
+
+Figure 11.4
+
+There are two basic types of cytoplasmic extensions: the dendrites and the axon. Dendrites are short branching processes which receive stimuli from receptors or other neurons. They can perform this function because they, like the exposed membrane of the cell body, possess chemically-gated ion channels which respond to stimulation by neurotransmitters. So the dendrites increase the area on which a neuron can be stimulated and together with the rest of the membrane of the cell body constitute the neuron's receptive region (See Table 11.1).
+
+16
+
+
+
+
+
+Neuron Structure
+
+Cell body (cyton)
+
+Cytoplasmic extensions:
+
+Dendrites
+
+Axon
+
+Node of
+
+Nucleus
+
+Ranvier
+
+Schwann
+
+Schwann cells –
+
+cells – only
+
+only axons in PNS
+
+axons in PNS
+
+17
+
+are m
+
+are m y
+
+y elinated
+
+elinated in this way.
+
+in this way. Figure 11.4
+
+A neuron will usually have only one axon, although it may branch extensively. The axon has voltage regulated ion gates (voltage gated ion channels) and therefor is responsible for carrying an impulse to another neuron or effector. The axon represents the neuron's conducting region. At the end of the axon, the axon terminus, is the secretory region where the neurotransmitters are released into the synapse.
+
+17
+
+
+
+
+
+Multipolar Neuron
+
+a) Multipolar neuron
+
+Multipolar neurons
+
+are the most common,
+
+found as interneurons
+
+and motor neurons
+
+throughout the CNS.
+
+Their myelinated axons
+
+are found as fibers in
+
+motor nerves.
+
+=Trigger region
+
+Receptive
+
+Conductive
+
+Secretory
+
+region
+
+region
+
+region
+
+7
+
+A multipolar neuron has many dendrites and one axon. Multipolar neurons are found as motor and interneurons. The receptive region is the region which can be stimulated by a neurotransmitter – it has chemically-gated ion channels. The conductive region generates and propagates an action potential – it has voltage-gated ion channels. The trigger region is the area where depolarization from the receptive region spreads to the voltage-gated channels of the conductive region. In this area summation of depolarization and hyperpolarization (explained later) can produce enough depolarization to open the voltage regulated gates and produce an action potential. The secretory region has vesicles which release neurotransmitter in response to the arrival of an action potential.
+
+7
+
+
+
+
+
+A Multipolar Neuron
+
+nucleus
+
+nucleolus
+
+cytoplasmic
+
+processes
+
+20
+
+A multipolar neuron, taken from the anterior horn of the spinal cord gray matter.
+
+20
+
+
+
+
+
+Multipolar Neuron
+
+Nissl substance
+
+21
+
+Nissl substance is the stained organelles of the neuron’s biosynthetic machinery. It is concentrated in the cell bodies of neurons in order to produce the large amounts of neurotransmitter and other substances which must be secreted.
+
+21
+
+
+
+
+
+Examples of Multipolar Neurons
+
+Dendrites
+
+Most abundant
+
+neruron type in the
+
+body: motor neurons
+
+in spinal cord and
+
+most brain neurons.
+
+Axons
+
+Table 11.1
+
+22
+
+These cells integrate pathways by receiving multiple inputs (the dendrites) and integrating them into one output which facilitates or inhibits the next neuron or effector.
+
+22
+
+
+
+
+
+Structural Types of Neurons:Unipolar
+
+Unipolar neurons – have one process, an axon. These are sensory neurons.
+
+CNS
+
+Receptor
+
+Single process
+
+23
+
+Unipolar neurons have one process from the cell body, classified as an axon. It branches to connect to receptors and the spinal cord or brain.
+
+Unipolar neurons are found as most of the body’s sensory neurons. The dendrites are found at the receptor and the axon leads to the spinal cord or brain.
+
+23
+
+
+
+Unipolar Neuron
+
+Unipolar neurons, a.k.a.
+
+b) Unipolar neuron
+
+pseudounipolar neurons,
+
+are found as the spinal
+
+and cranial sensory
+
+neurons.
+
+=Trigger region
+
+Receptive
+
+Conductive
+
+Secretory
+
+region
+
+region
+
+region
+
+8
+
+Receptive region is just on the dendrites and the peripheral end of the neuron, which receives input from receptors. This area possesses chemically-gated ion channels.
+
+The conductive region is the long process of the axon which generates an action potential because it has voltage-gated ion channels. Where these two areas meet is the trigger region, a place where depolarization from the receptive region reaches the voltage-gated channels of the conductive region. At the proximal end of the neuron is the secretory region, containing vesicles of neurotransmitter.
+
+8
+
+
+
+
+
+Example of Unipolar Neurons
+
+Found as spinal and cranial sensory neurons.
+
+Synapses
+
+Dendrites
+
+in the CNS
+
+at receptor
+
+25
+
+Most sensory neurons, whether they enter the brain or spinal cord, are of this type.
+
+25
+
+
+
+
+
+Structural Types of Neurons: Bipolar
+
+Bipolar neurons – found only in the special senses.
+
+26
+
+Bipolar neuron - has one dendrite and one axon attached to the cell body.
+
+Bipolar neurons are rare, found only in ear and eye, and as olfactory receptors where they are part of the integration of incoming stimuli. The olfactory receptors are the only neurons known to replace themselves throughout life.
+
+26
+
+
+
+Bipolar Neuron
+
+c) Bipolar neuron
+
+Bipolar neurons, a.k.a.
+
+pseudounipolar neurons,
+
+are found as the spinal
+
+and cranial sensory
+
+neurons.
+
+=The trigger region
+
+varies with specific
+
+Receptive
+
+Conductive
+
+Secretory
+
+neuron
+
+region
+
+region
+
+region
+
+9
+
+In this neuron the receptive region, with the chemically-gated channels, includes the dendrites and cell body. The conductive region is on the long process of the axon.
+
+And the secretory region is at the axon teminus.
+
+9
+
+
+
+
+
+Examples of Bipolar Neurons
+
+When n.s. development is
+
+complete these are found
+
+only in special sensory
+
+pathways.
+
+28
+
+Olfactory cells are the only neurons known to replace themselves throughout life. Their axons pass through the cribriform plate to the olfactory bulb of the brain. Retinal cells are important in integration of visual pathways which emphasize contrast and movement.
+
+28
+
+
+
+Functional Classes of Neurons
+
+Interneurons – a.k.a. connecting neurons which produce pathways from neurons to one another.
+
+Motor neurons – send stimuli to muscles and other effectors, both voluntary and involuntary. A.k.a efferent neurons.
+
+Sensory neurons – bring stimuli from receptors to the CNS. A.k.a. afferent neurons.
+
+29
+
+Three types of neurons.
+
+29
+
+
+
+
+
+Relationship of Functional Neuron Types
+
+Sensory neuron
+
+Interneuron
+
+Motor neuron
+
+30
+
+This is the way that the tree types of neurons typically interact through a reflex. A reflex is a direct connection between stimulus and response. A spinal reflex does not require the brain or conscious thought.
+
+30
+
+
+
+Spinal Cord - Neuron Relationships
+
+sensory cell bodies
+
+dorsal root
+
+ganglion
+
+dorsal sulcus (fissure)
+
+sensory
+
+fibers
+
+white matter
+
+gray
+
+matter
+
+receptor
+
+Interneuron
+
+effector
+
+spinal nerve
+
+central
+
+canal
+
+motor fibers
+
+ventral sulcus
+
+motor cell bodies
+
+31
+
+ventral root
+
+The spinal cord (See Figure 11.26) is the connection center for the reflexes as well as the afferent (sensory) and efferent (motor) pathways for most of the body below the head and neck. The spinal cord begins at the brainstem and ends at about the second lumbar vertebra. The sensory, motor, and interneurons discussed previously are found in specific parts of the spinal cord and nearby structures. Sensory neurons have their cell bodies in the spinal (dorsal root) ganglion. Their axons travel through the dorsal root into the gray matter of the cord. Within the gray matter are interneurons with which the sensory neurons may connect. Also located in the gray matter are the motor neurons whose axons travel out of the cord through the ventral root. The white matter surrounds the gray matter. It contains the spinal tracts which ascend and descend the spinal cord.
+
+31
+
+
+
+
+
+Spinal Cord C.S.
+
+White matter
+
+Gray matter
+
+Dorsal root ganglion
+
+Dorsal root
+
+Ventral root
+
+Meninges:
+
+Meninges:
+
+Pia
+
+Pia mater
+
+mater
+
+Arachnoid
+
+Arachnoid
+
+Dura
+
+Dura mater
+
+mater
+
+Figure 9-2
+
+32
+
+Surrounding both the spinal cord and the brain are the meninges, a three layered covering of connective tissue. The dura mater is the tough outer layer. Beneath the dura is the arachnoid which is like a spider web in consistency. The arachnoid has abundant space within and beneath its thickened outer portion (the subarachnoid space) which contains cerebrospinal fluid, as does the space beneath the dura mater (subdural space). This cerebrospinal fluid supplies buoyancy for the spinal cord and brain to help provide shock absorption. The pia mater is a very thin layer which adheres tightly to the surface of the brain and spinal cord. It follows all contours and fissures (sulci) of the brain and cord.
+
+32
+
+
+
+
+
+Spinal Cord – Vertebra Relationship
+
+Epidural anesthetic –
+
+Epidural anesthetic –
+
+applied outside the dura
+
+applied outside the dura
+
+mater of spinal cord.
+
+mater of spinal cord.
+
+Epidural space
+
+Dura mater
+
+Arachnoid
+
+Pia mater
+
+Dorsal
+
+root
+
+ganglion
+
+Body of
+
+vertebra
+
+33
+
+An epidural injection of anesthetic, in childbirth for example, is placed immediately outside the dura mater. It penetrates slowly into the nearby nerve roots.
+
+33
+
+
+
+Terms:
+
+ganglion - a collection of cell bodies located outside the Central Nervous System. The spinal ganglia or dorsal root ganglia contain the cell bodies of sensory neurons entering the cord at that region.
+
+nerve-a
+
+nerve
+
+group of fibers (axons) outsidethe CNS. The
+
+spinal nerves contain the fibers of the sensory and motor neurons. A nerve does not contain cell bodies.
+
+They are located in the ganglion (sensory) or in the gray matter (motor).
+
+34
+
+34
+
+
+
+gray matter - an area of unmyelinated neurons where cell bodies and synapses occur. In the spinal cord the synapses between sensory and motor and interneurons occurs in the gray matter. The cell bodies of the interneurons and motor neurons also are found in the gray matter.
+
+white matter - an area of myelinated fiber tracts.
+
+Myelination in the CNS differs from that in nerves.
+
+tract
+
+tract -a group of fibers insidethe CNS. The spinal tracts carry information up or down the spinal cord, to or from the brain. Tracts within the brain carry information from one place to another within the brain. Tracts are always 35
+
+part of white matter.
+
+35
+
+
+
+
+
+Spinal Cord
+
+Cervical enlargement
+
+Lumbar enlargement
+
+36
+
+Figure 9-1
+
+Enlargements occur where high numbers of connections occur, to arms and legs for instance.
+
+36
+
+
+
+
+
+Spinal Cord Caudal End
+
+Conus medullaris
+
+Small tip at end of cord –
+
+Small tip at end of cord – L
+
+L 2
+
+2
+
+Filum terminale
+
+Anchors spinal cord
+
+Anchors spinal cord
+
+37
+
+The cord ends at the second lumbar vertebra. From that point there is a meningeal sac containing cerebrospinal fluid. The tip of the cord, the conus medullaris, is anchored by the filum terminale to the sacrum.
+
+37
+
+
+
+
+
+N
+
+Conus medullaris
+
+Meningeal sac
+
+Cauda equina
+
+Filum terminale
+
+38
+
+Since the actual cord ends at the second lumbar vertebra, the later roots arise close together on the cord and travel downward to exit at the appropriate point. These nerve roots are called the cauda equina because of their resemblance to a horses tail. A meningeal sack continues, filled with cerebrospinal fluid, to the sacrum.
+
+38
+
+
+
+
+
+Cauda Equina
+
+39
+
+The arrangement of spinal roots reminded anatomists of a “horse’s tail”.
+
+39
+
+
+
+
+
+Lumbar Puncture
+
+Figure 9-4
+
+40
+
+Removing cerebrospinal fluid (CSF) can be done by placing the needle in the sack of meninges below the conus medullaris where risk is minimal. This is placed into the subarachnoid space, usually at the fourth intervertebral space. This is done for diagnosis, for example in severe headache, suspected CNS infection, or bleeding. Or to administer drugs to the brain or spinal cord; to administer drugs to the brain or spinal cord (e.g. anesthetics or chemotherapy); or to relieve excess pressure in the CSF.
+
+40
+
+
+
+
+
+Cervical
+
+Spinal Nerves
+
+Cervical
+
+nerves:
+
+nerves:
+
+C1-C8
+
+C1-C8
+
+Plexuses:
+
+Thoracic
+
+Thoracic
+
+nerves:
+
+nerves:
+
+Cervical
+
+T1-T12
+
+T1-T12
+
+Brachial
+
+Lumbar
+
+Lumbar
+
+nerves:
+
+nerves:
+
+Lumbar
+
+L1-L5
+
+L1-L5
+
+Sacral
+
+Sacral
+
+Sacral
+
+nerves:
+
+nerves:
+
+S1-S5
+
+S1-S5
+
+Coccy
+
+Coccy g
+
+g eal
+
+eal n
+
+n erve: Co
+
+erve: Co
+
+Figure 9-6
+
+41
+
+At 31 places along the spinal cord the dorsal and ventral roots come together to form spinal nerves . Spinal nerves contain both sensory and motor fibers, as do most nerves. Spinal nerves are given numbers which indicate the portion of the vertebral column in which they arise. There are 8 cervical (C1-C8), 12 thoracics (T1-T12), 5 lumbar (L1-L5), 5 sacral (S1-S5), and 1 coccygeal nerve. Nerve C1 arises between the cranium and atlas (1st cervical vertebra) and C8 arises between the 7th cervical and 1st thoracic vertebra. All the others arise below the respective vertebra or former vertebra in the case of the sacrum.
+
+A plexus is an interconnection of fibers which form new combinations as the "named" or peripheral nerves.
+
+41
+
+
+
+
+
+The
+
+The de
+
+de rma
+
+rma ttomes
+
+omes are somatic
+
+are somatic
+
+Dermatomes
+
+or musculocutaneous areas
+
+Figure 9-7
+
+or musculocutaneous areas
+
+served by fibers from specific
+
+served by fibers from specific
+
+spinal nerves.
+
+spinal nerves.
+
+42
+
+The dermatomes are somatic or musculocutaneous areas served by fibers from specific spinal nerves. The map of the dermatomes is shown by Figure13.12
+
+This map is useful in diagnosing the origin of certain somatic pain, numbness, tingling etc. when these symptoms are caused by pressure or inflammation of the spinal cord or nerve roots.
+
+42
+
+
+
+
+
+Referred Pain
+
+Visceral pain
+
+Visceral pain
+
+interpreted as
+
+interpreted as
+
+coming from the
+
+coming from the
+
+somatic region.
+
+somatic region.
+
+Figure 9-8
+
+43
+
+Referred pain is caused when the sensory fibers from an internal organ enter the spinal cord in the same root as fibers from a dermatome. The brain is poor at interpreting visceral pain and instead interprets it as pain from the somatic area of the dermatome. So pain in the heart is often interpreted as pain in the left arm or shoulder, pain in the diaphragm is interpreted as along the left clavicle and neck, and the "stitch in your side" you sometimes feel when running is pain in the liver as its vessels vasoconstrict. (See Figure 14.8)
+
+43
+
+
+
+
+
+Structure of a Nerve
+
+axon
+
+Myelin sheath
+
+endoneurium
+
+fasciculus
+
+perineurium
+
+epineurium
+
+44
+
+Figure 13.3
+
+A peripheral nerve is arranged much like a muscle in terms of its connective tissue. It has an outer covering which forms a sheath around the nerve, called the epineurium. Often a nerve will run together with an artery and vein and their connective coverings will merge. Nerve fibers, which are axons, organize into bundles known as fascicles with each fascicle surrounded by the perineurium. Between individual nerve fibers is an inner layer of endoneurium. The endoneurium does not effectively insulate the axons however. That role falls to the myelin sheath.
+
+44
+
+
+
+
+
+Peripheral Nerve C.S.
+
+Perineurium
+
+Fasciculi
+
+Epineurium
+
+45
+
+A nerve is arranged in a similar way to a muscle, with three layers of connective tissues surrounding the fibers, the fasciculi, and the whole muscle.
+
+45
+
+
+
+
+
+Peripheral Nerve
+
+Epineurium
+
+Axon
+
+Perineurium
+
+Myelin Sheath
+
+46
+
+Fasciculi
+
+In this scanning electron micrograph the texture of the connective tissues and the myelinated fibers stands out.
+
+46
+
+
+
+
+
+Myelinated Fibers in the PNS
+
+Axon
+
+Myelin
+
+sheath
+
+Perineurium
+
+Endoneurium
+
+47
+
+The myelin sheath does several things:
+
+1) It provides insulation to help prevent short circuiting between fibers.
+
+2) The myelin sheath provides for faster conduction.
+
+3) The myelin sheath provides for the possibility of repair of peripheral nerve fibers. Schwann cells help to maintain the micro-environments of the axons and their tunnel (the neurilemma tunnel) permits re-connection with an effector or receptor. CNS fibers, not having the same type of myelination accumulate scar tissue after damage, which prevents regeneration.
+
+47
+
+
+
+
+
+Nerve l.s.
+
+Node of Ranvier
+
+Nucleus of Schwann
+
+Schwann cells
+
+Nodes of Ranvier
+
+48
+
+The myelin sheath in peripheral nerves consists of Schwann cells wrapped in many layers around the axon fibers. Not all fibers in a nerve will be myelinated, but by far most of the voluntary fibers are.
+
+48
+
+
+
+
+
+Medullated Nerve
+
+Schwann cell
+
+Node of Ranvier
+
+49
+
+The Schwann cells are portrayed as arranged along the axon like sausages on a string. (A more apt analogy would be like jelly rolls) Gaps between the Schwann cells are called nodes of Ranvier. These nodes permit an impulse to travel faster because it doesn't need to depolarize each area of a membrane, just the nodes. This type of conduction is called saltatory conduction and means that impulses will travel faster in myelinated fibers than in unmyelinated ones.
+
+49
+
+
+
+
+
+Peripheral Nerve Regeneration
+
+Anterograde (Wallerian)
+
+degeneration – distal to the
+
+endoneurium
+
+damage, complete.
+
+Retrograde degenration
+
+and other effects –
+
+damage must be far
+
+Damaged neuron
+
+enough from the cell
+
+fragments
+
+body to avoid destroying
+
+it.
+
+Figure 13.4
+
+50
+
+Regeneration of a peripheral nerve fiber depends upon several things.
+
+First the damage must be far from the cell body. Anterograde degeneration destroys the axon distal to the point of damage. Retrograde degeneration causes the fiber to degenerate for a distance back toward the cell body. The amount of axoplasm lost determines whether the neuron can survive. Secondly the myelin sheath and its neurilemma tunnel must be intact. Chemicals such as the myelin proteins tend to inhibit re-growth, but macrophages will enter the damaged area and phagocytize these proteins and other debris. Schwann cells will proliferate and secrete growth stimulating factors and provide the chemical and physical needs necessary for growth and re-innervation by the axon.
+
+50
+
+
+
+
+
+Macrophages remove
+
+debris, released myelin
+
+and other molecules.
+
+Schwann cells multiply,
+
+and align to form
+
+regeneration tube
+
+(neurilemma tunnel)
+
+New axon branches form
+
+51
+
+If the neurilemma tunnel (Tunnel of Schwann) has survived, then new axon branches can move through it to the original destination.
+
+51
+
+
+
+
+
+New myelin sheath
+
+forms around
+
+enlarging axon
+
+filament. Axon may
+
+re-innervate receptor
+
+or effector.
+
+52
+
+Many branches begin, but only one typically reaches the target.
+
+52
+
+
+
+
+
+The Cervical Plexus
+
+Innervates the
+
+Innervates the
+
+diaphragm
+
+diaphragm
+
+Phrenic nerve
+
+53
+
+Figure 9-9
+
+The most significant nerve arising from the cervical plexus is the phrenic nerve, which controls the diaphragm, the primary muscle of quiet respiration.
+
+53
+
+
+
+
+
+Brachial Plexus
+
+Cords:
+
+lateral
+
+posterior
+
+medial
+
+Axial
+
+Musculocutaneous
+
+Median
+
+Radial
+
+Ulnar
+
+Figure 9-10
+
+54
+
+Axial nerve: skin of shoulderregion; deltoid and teres minor muscles Musculocutaneous nerve: skin of upper ant. Arm; elbow flexors Radial nerve: extensors of elbow and wrist; skin of posterolateral surfaces of arm
+
+Median and ulnar nerves: elbow, wrist, & finger flexors; skin of adjacent areas
+
+54
+
+
+
+
+
+Lumbar Plexus
+
+Genitofemoral
+
+Skin of genitalia and
+
+Skin of genitalia and
+
+adjacent regions
+
+adjacent regions
+
+Obturator
+
+Adductors
+
+Adductors
+
+Femoral
+
+Anterior and
+
+Anterior and
+
+medial thigh,
+
+medial thigh,
+
+quadriceps
+
+quadriceps
+
+Figure 9-11
+
+55
+
+Femoral nerve: sensory from skin of anterior and medial thigh and medial leg and foot, hip and knee; motor to quadriceps muscles.
+
+Obturator nerve: Motor to adductor magnus, longus and brevis, gracilis and obturator externus muscles; sensory for medial thigh, hip and knee.
+
+Genitofemoral nerve: sensory from skin of genitalia and anterior thigh; motor to cremaster muscles in males.
+
+55
+
+
+
+
+
+Sacral Plexus
+
+Sup. & inf. gluteal
+
+Gluteal
+
+Gluteal muscles
+
+muscles
+
+Short head of biceps
+
+femoris muscle, otherwise
+
+Fibular (peroneal)
+
+ant. and lateral leg and foot
+
+branch
+
+Tibial branch
+
+Most posterior muscles of
+
+leg and foot; skin of
+
+posterior region
+
+[
+
+Sciatic
+
+Pudendal
+
+External
+
+External
+
+Figure 9-12
+
+genitalia
+
+56
+
+genitalia
+
+Sciatic nerve
+
+Tibial branch: Cutaneous branches – to skin of posterior leg and sole of foot; Motor to muscles of back of thigh, leg and foot: (except short head of biceps femoris), posterior part of adductor magnus, triceps surae, tibibialis posterior, popliteus, flexor digitorum longus, flexor hallucis longus, and intrinsic muscles of foot.
+
+Fibular (Peroneal) Branch: Cutaneous – to skin and anterior surface of leg and dorsum of foot; Motor – to short head of biceps femoris, fibular (peroneal) muscles, tibialis anterior, extensor muscles of toes.
+
+Superior gluteal nerve: gluteus medius and minimus, tensor fasciae latae.
+
+Inferior gluteal nerve: gluteus maximus.
+
+Pudendal nerve: skin and muscle of external genitalis and anal region.
+
+56
+
+
+
+Spinal Tracts
+
+Ascending (sensory) tracts:
+
+Spinocerebellar – from spinal cord to cerebellum unconscious muscle sense (proprioception)
+
+Spinothalamic – from spinal cord to thalamus and cerebral cortex – pain, temperature, crude touch, pressure.
+
+Fasciculus gracilis and fasciculus cuneatus – to cerebral cortex – conscious proprioception and discriminative touch.
+
+57
+
+The white matter of the spinal cord contains tracts which travel up and down the cord. Many of these tracts travel to and from the brain to provide sensory input to the brain, or bring motor stimuli from the brain to control effectors.
+
+Ascending tracts, those which travel toward the brain are sensory, descending tracts are motor. Figure 12.30 shows the location of the major tracts in the spinal cord. For most the name will indicate if it is a motor or sensory tract. Most sensory tracts names begin with spino, indicating origin in the spinal cord, and their name will end with the part of the brain where the tract leads. For example the spinothalamic tract travels from the spinal cord to the thalamus. Tracts whose names begin with a part of the brain are motor. For example the corticospinal tract begins with fibers leaving the cerebral cortex and travels down toward motor neurons in the cord.
+
+57
+
+
+
+
+
+Spinal Tracts
+
+Fasciculus cuneatus and gracilis
+
+(dorsal white columns)
+
+Spinocerebellar:
+
+posterior,
+
+anterior
+
+Spinothalamic: lateral, anterior
+
+Figure 9-16
+
+58
+
+Comparison of Spinal Tracts
+
+The Primary Spinal Tracts: All tracts are paired, i.e. found in the same locations on both sidesof the cord. Tracts indicated as red are motor (descending) tracts, those indicated as blue are sensory (ascending) tracts.
+
+Uncolored areas are local connections from one portion of the spinal cord to another, or tracts of lesser importance.
+
+58
+
+
+
+
+
+29
+
+This tract carries subconscious proprioception (muscle sense) to the cerebellum which is responsible for muscle coordination. The fibers either do not cross, or cross and re-cross so that they innervate the cerebellum on the same side.
+
+29
+
+
+
+
+
+30
+
+These tracts carry discriminative touch and conscious proprioception.
+
+Discriminative touch allows you to specifically localize the location whereas crude touch does not. The fibers of these tracts go first to the medulla where they synapse and cross. Then through a pathway called the medial lemniscus they pass to the thalamus. Then on to the cerebral cortex for perception.
+
+30
+
+
+
+
+
+31
+
+These tracts carry conscious pain, temperature, crude touch, and pressure.
+
+There is a lateral and an anterior tract. They carry this information first to the thalamus of the brain which receives all conscious sensations, and then terminate in the areas of the cerebral cortex which perceive these sensations.
+
+31
+
+
+
+Descending Spinal Tracts:
+
+Corticospinal tracts – pyramidal and others – from cerebral cortex to spinal cord motor neurons – voluntary motor control.
+
+Extrapyramidal tracts (rubrospinal, vestibulospinal, etc.)
+
+– muscle tone and balance.
+
+64
+
+The corticospinal tracts carry motor impulses to the motor neurons which innervate skeletal muscles. These are called the “direct” pathways. The
+
+“indirect” or extrapyramidal tracts ( outside the pyramids) carry impulses associated with balance and muscle tone to muscles on the opposite side of the body. All neurons in the tracts are considered “upper motor neurons”
+
+because they lie in the brain and spinal cord and do not innervate the muscles themselves. Instead they synapse with the “lower motor neurons”
+
+which run from the gray matter of the spinal cord to the muscles through the nerves.
+
+64
+
+
+
+
+
+Spinal Tracts
+
+Corticospinal:
+
+Lateral
+
+Lateral
+
+Anterior, Lateral
+
+corticospinal
+
+corticospinal ffibers
+
+ibers
+
+crosso
+
+crosso ver in the
+
+ver in the
+
+py
+
+py r
+
+r a
+
+a m
+
+m iids
+
+ds o
+
+o ff
+
+medulla –
+
+medulla – c
+
+c ontro
+
+ontro l
+
+l
+
+Extrapyarmidal
+
+muscles on
+
+muscles on
+
+tracts
+
+opposite side
+
+opposite side
+
+65
+
+The medulla contains the pyramids, tapering prominences visible on the surface which contain the lateral corticospinal tract fibers which are crossing to the opposite side of the cord. Hence these tracts are called the pyramidal tracts.
+
+65
+
+
+
+
+
+35
+
+The corticospinal tract originates in the cerebral cortex where voluntary motor control is localized. There are two branches, the lateral and the anterior. The lateral crosses in the medulla in an area known due to its appearance as the pyramids. The anterior crosses lower in the cord, or does not cross. These fibers are called "upper motor neurons" and they synapse with "lower" motor neurons in the cord which lead to the skeletal muscles.
+
+35
+
+
+
+Disorders of the Spinal Cord
+
+Multiple sclerosis – autoimmune damage to myelin covering, causing disruption of motor and sensory signals throughout the CNS.
+
+Paraplegia – The impairment or loss of motor or sensory function in the thoracic, lumbar, or sacral neurological segments secondary to damage of the spinal cord.
+
+Quadriplegia – Motor and/or sensory function in the cervical spinal segments is impaired or lost due to damage to that part of the spinal cord, which results in impaired function in the arms as well as the legs, trunk, and pelvic organs.
+
+68
+
+Here are some useful links: [multiple sclerosis] [cerebral palsy]
+
+[poliomyelitis] [spina bifida]
+
+Next: Part II - Neurophysiology
+
+68
+
+
+
+
+
+Reflex: a direct connection
+
+Reflex: a direct connection
+
+The Reflex Arc
+
+bet
+
+bet w
+
+w een stimulus and
+
+een stimulus and
+
+response, w
+
+response, w h
+
+h ich
+
+ich do
+
+do esn’t
+
+esn’t
+
+require conscious thought.
+
+require conscious thought.
+
+To brain
+
+Sensory neuron
+
+Pain stimulus
+
+The Withdrawal Reflex
+
+Withdrawal response
+
+Interneuron
+
+Motor neuron
+
+Withdra
+
+Withdra w
+
+w al Reflex:
+
+al Reflex:
+
+avoidance of noxious
+
+avoidance of noxious
+
+Figure 13.14
+
+stimulus; 3-neuron; flexor
+
+stimulus; 3-neuron; flexor
+
+69
+
+reflex.
+
+reflex.
+
+A reflex is a direct connection between stimulus and response, which does not require conscious thought. There are voluntary and involuntary reflexes.
+
+It is the voluntary reflexes we are considering here. As discussed earlier, a reflex involves at least 2 or 3 neurons. The typical components of a reflex are shown in the figure above. The reflex shown in this figure is called a 3-neuron reflex because it requires three types of neurons: a sensory, an interneuron, and a motor neuron. It is also called a withdrawal reflex because it is commonly involved in withdrawing from painful stimuli.
+
+Withdrawing from painful stimuli does not require thought. But the interneuron does send a fiber through the spinothalamic tract to the brain where the pain is perceived. This occurs at virtually the same instant you are withdrawing from the stimulus. For example, let's say you accidentally touch a hot stove. Instantly you withdraw your hand from the stove, at the same time you are feeling the pain.
+
+69
+
+
+
+
+
+Stretch Reflex
+
+Sensory pathway
+
+“2 neuron
+
+reflex”
+
++
+
+Stretch of
+
+Excitatory
+
+extensor
+
+to
+
+The Stretch Reflex
+
+muscle
+
+extensor
+
+Inhibitory
+
+-
+
+to flexor
+
+Muscle spindle
+
+Reciprocal
+
+Knee flexion
+
+inhibition
+
+Results in
+
+reversal of
+
+70
+
+original actions
+
+he stretch reflex in its simplest form involves only 2 neurons, and is therefore sometimes called a 2-neuron reflex. The two neurons are a sensory and a motor neuron. The sensory neuron is stimulated by stretch (extension) of a muscle. Stretch of a muscle normally happens when its antagonist contracts, or artificially when its tendon is stretched, as in the knee jerk reflex. Muscles contain receptors called muscle spindles. (See Figure 13.15) These receptors respond to the muscles's stretch. They send stimuli back to the spinal cord through a sensory neuron which connects directly to a motor neuron serving the same muscle. This causes the muscle to contract, reversing the stretch. The stretch reflex is important in helping to coordinate normal movements in which antagonistic muscles are contracted and relaxed in sequence, and in keeping the muscle from overstretching. Since at the time of the muscle stretch its antagonist was contracting, in order to avoid damage it must be inhibited or tuned off in the reflex. So an additional connection through an interneuron sends an inhibitory pathway to the antagonist of the stretched muscle - this is called reciprocal inhibition.
+
+70
+
+
+
+
+
+Knee-Jerk Reflex
+
+Sensory to spinal
+
+cord.
+
+Excitatory to
+
+extensor muscle.
+
+Inhibitory to flexor
+
+Tendon stretch
+
+muscle.
+
+simulates
+
+Knee extends
+
+muscle stretch
+
+(knee jerk)
+
+Figure 13.17b
+
+71
+
+The knee jerk is a test reflex performed to assess the function of nerves and spinal connections. Because virtually all human adult reflexes must be facilitated, the knee jerk reflex won’t work if there is any interruption in spinal cord pathways.
+
+71
+
+
+
+
+
+The Deep Tendon Reflex
+
+Muscle
+
+Rectus femoris
+
+contraction
+
+stimulates
+
+Inhibitory to
+
+-
+
+Golgi tendon
+
+rectus
+
+the Deep Tendon Reflex
+
+organ.
+
+femoris
+
++ Excitatory to
+
+biceps
+
+femoris –
+
+reciprocal
+
+activation
+
+Figure 13.18
+
+72
+
+Tendon receptors respond to the contraction of a muscle. Their function, like that of stretch reflexes, is the coordination of muscles and body movements. The deep tendon reflex involves sensory neurons, interneurons, and motor neurons. The response reverses the original stimulus therefore causing relaxation of the muscle stimulated. In order to facilitate that the reflex sends excitatory stimuli to the antagonists causing them to contract -
+
+reciprocal activation.
+
+72
+
+
+
+Here's how stretch and tendon reflexes work together Assume an individual walking or running with left knee extended and right knee flexing. The following will occur as the right leg shifts from flexion to extension:
+
+Activation from
+
+Rectus femoris
+
+stretch reflex
+
+Extension causes muscle stretch
+
++ Reciprocal
+
+activation from
+
+Muscle spindle
+
+tendon reflex
+
+Spinal
+
+Right
+
+cord
+
+Right
+
+knee
+
+knee
+
+Golgi tendon organ
+
+Inhibition from
+
+flexing
+
+extends
+
+-
+
+tendon reflex
+
+Contraction stretches tendon
+
+Reciprocal
+
+inhibition from
+
+Biceps femoris
+
+73
+
+stretch reflex
+
+The stretch and tendon reflexes complement one another. When one muscle is stretching and initiating the stretch reflex, its antagonist is contracting and initiating the tendon reflex. The two reflexes cause the same responses thus enhancing one another.
+
+73
+
+
+
+
+
+Muscle Spindle and Golgi Tendon Organ
+
+Modulating fibers
+
+Modulating fibers
+
+γ efferent
+
+Secondary
+
+neurons - to
+
+sensory
+
+intrafusal fibers
+
+neurons IIa
+
+Primary
+
+Primary motor fibers
+
+motor fibers
+
+Modulating fibers
+
+Modulating fibers
+
+α efferent motor
+
+Primary
+
+fibers – to
+
+sensory
+
+extrafusal fibers
+
+neurons IA
+
+Intrafusal fibers
+
+Respond to
+
+Respond to
+
+Fibers of muscle spindle
+
+Fibers of muscle spindle
+
+muscle stretch
+
+muscle stretch
+
+Extrafusal fibers
+
+Primar
+
+Primar y
+
+y muscle
+
+muscle
+
+Golgi tendon organ
+
+contraction
+
+contraction
+
+Figure 13.15
+
+74
+
+Tendon stretches as muscle contracts
+
+Tendon stretches as muscle contracts
+
+The extrafusal muscle fibers are the primary fibers of the muscle. When stimulated by the α efferent neurons (lower motor neurons) these fibers contract. Muscle contraction reduces tension on the spindle and reduces the rate of action potential generation.
+
+The intrafusal fibers are the fibers of the muscle spindle. Stretching the muscle stretches the muscle spindle and increases the rate of action potential generation in the associated sensory IA fiber. That produces a reflex which stimulates the extrafusal fibers, causing the muscle to switch from stretching (relaxing) to contraction. It also results in reflex signals in the γ efferent fibers which cause the intrafusal fibers to contract, thus modulating (or damping) the response. To complete the control, the sensory IIA fibers send signals back which result in modulation of the intrafusal fiber contraction.
+
+The golgi tendon organ responds to contraction, rather than stretch, of the muscle. It results in a reflex which causes the muscle to relax.
+
+74
+
+
+
+
+
+Crossed Extensor Reflex Figure 13.19
+
+the Crossed Extensor Reflex
+
+-
+
++
+
+- +
+
+Extension on
+
+Extension on
+
+Withdrawal reflex
+
+Withdrawal reflex
+
+opposite side.
+
+opposite side.
+
+75
+
+on one side.
+
+on one side.
+
+The crossed extensor reflex is just a withdrawal reflex on one side with the addition of inhibitory pathways needed to maintain balance and coordination.
+
+For example, you step on a nail with your right foot as you are walking along.
+
+This will initiate a withdrawal of your right leg. Since your quadriceps muscles, the extensors, were contracting to place your foot forward, they will now be inhibited and the flexors, the hamstrings will now be excited on your right leg. But in order to maintain your balance and not fall down your left leg, which was flexing, will now be extended to plant your left foot (e.g. crossed extensor). So on the left leg the flexor muscles which were contracting will be inhibited, and the extensor muscles will be excited. The textbook illustration uses the arms. Study it to see how the same process works there, even though it isn't necessary to maintain balance.
+
+75
+
+
+
+Two Types of Transmission
+
+1) Across the synapse - synaptic transmission.
+
+This is a chemical process, the result of a
+
+chemical neurotransmitter.
+
+2) Along the axon - membrane transmission.
+
+This is the propagation of the action
+
+potential itself along the membrane of the
+
+axon.
+
+76
+
+Synaptic transmission is like transmission at the neuromuscular junction as studied in the muscles.
+
+Membrane or axonal transmission is like that which occurs along the sarcolemma.
+
+76
+
+
+
+
+
+The Chemical Synapse
+
+1) Nerve impulse
+
+5) Neurotransmitter is
+
+arrives causing
+
+broken down or removed
+
+influx of Ca+2
+
+from the synapse to allow
+
+the next transmission.
+
+2) Ca+2 promotes
+
+the exocytosis of
+
+ACh-ase, MAO
+
+synaptic vesicles.
+
+Reuptake
+
+3) Neurotransmitter
+
+diffuses across the
+
+synapse to attach
+
+to postsynaptic
+
+receptors.
+
+4) Binding of
+
+neurotransmitter causes
+
+Chemically-gated ion channels
+
+voltage changes in
+
+77
+
+Figure 11.18
+
+postsynatptic membrane
+
+Chemically-gated Ion Channels - Flash Video
+
+1) Impulse arrives at the axon terminus causing opening of Ca+2 channels and allows Ca+2to enter the axon. The calcium ions are in the extracellular fluid, pumped there much like sodium is pumped. Calcium is just an intermediate in both neuromuscular and synaptic transmission.
+
+2) Ca+2 causes vesicles containing neurotransmitter to release the chemical into the synapse by exocytosis across the pre-synaptic membrane.
+
+3) The neurotransmitter binds to the post-synaptic receptors. These receptors are linked to chemically gated ion channels and these channels may open or close as a result of binding to the receptors to cause a graded potential which can be either depolarization, or hyperpolarization depending on the transmitter. Depolarization results from opening of Na+ gates and is called an EPSP. Hyperpolarization could result from opening of K+ gates and is called IPSP.
+
+4) The neurotransmitter is broken down or removed from the synapse in order for the receptors to receive the next stimulus. As we learned there are enzymes for some neurotransmitters such as the Ach-E which breaks down acetylcholine. Monoamine oxidase (MAO) is an enzyme which breaks down the catecholamines (epinephrine, nor-epinephrine, dopamine) and nor-epinephrine (which is an important autonomic neurotransmitter) is removed by the axon as well in a process known as reuptake. Other transmitters may just diffuse away.
+
+Summary of Synaptic Transmission
+
+77
+
+
+
+Chemical Synapses Between Neurons
+
+1) Sub-threshold stimuli result in small local potentials (graded potentials) which must add together (summation) to produce an action
+
+potential.
+
+2) A variety neurotransmitters can be involved with varying effects.
+
+3) Neurotransmitters can be excitatory or inhibitory. The result might be to turn off the next neuron rather than to produce an action potential.
+
+78
+
+Unlike transmission at the neuromuscular junction, synaptic transmission can result in different outcomes such as excitation or inhibition. They are virtually never at a threshold level, and require summation in order to produce threshold depolarization.
+
+78
+
+
+
+
+
+Chemical Synapses
+
+Cell body
+
+Axodendritic
+
+Axosomatic
+
+Axoaxonal
+
+Trigger region
+
+79
+
+All the exposed membrane on the dendrites and cell body, even the axon hillock, possesses chemically-gated ion channels, and is therefore part of the receptive region where synapses occur. They can occur therefore between axons and the soma, the dendrites, or the axon hillock. No matter where the synapse occurs, in order for the neuron to be excited and to carry an action potential to another neuron or effector, depolarization must reach threshold at the trigger region where voltage-gated channels arise.
+
+79
+
+
+
+
+
+Depolarizing vs. Hyperpolarizing
+
+Threshold
+
+Threshold
+
+Open Na+ gates,
+
+Open Na+ gates,
+
+Open K+ gates,
+
+Open K+ gates,
+
+depolarization, EPSP
+
+depolarization, EPSP
+
+hy
+
+hy perpola
+
+perpola r
+
+r ization, IPSP
+
+ization, IPSP
+
+(Excitatory Post-s
+
+(Excitatory Post-s ynaptic
+
+ynaptic
+
+(Inhibitory Post-s
+
+(Inhibitory Post-synaptic
+
+80
+
+ynaptic
+
+Potential)
+
+Potential)
+
+Potential)
+
+Potential)
+
+Graded Potentials - these are small, local depolarizations or hyperpolarizations which can spread and summate to produce a threshold depolarization. Small because they are less than that needed for threshold in the case of the depolarizing variety. Local means they only spread a few mm on the membrane and decline in intensity with increased distance from the point of the stimulus. The depolarizations are called EPSPs, excitatory post-synaptic potentials, because they tend to lead to an action potential which excites or turns the post-synaptic neuron on. Hyperpolarizations are called IPSPs, inhibitory post-synaptic potentials, because they tend to inhibit an action potential and thus turn the neuron off.
+
+Flash Videos:
+
+EPSPs vs IPSPS
+
+Potentiation of Synapses
+
+Summation at Synapses
+
+Decay of Graded Potentials
+
+Neural Integration
+
+80
+
+
+
+Summation
+
+Temporal summation- analogous to the frequency (wave, tetany) summation in muscle. Many EPSPs occurring in a short period of time (e.g. with high frequency) can sum to produce threshold
+
+depolarization. This occurs when high intensity stimulus results in a high frequency of EPSPs.
+
+Spatial summation - analogous to quantal summation in a muscle. Many stimuli occurring simultaneously,their depolarizations spread and overlap and can build on one another to sum and produce threshold depolarization.
+
+81
+
+Temporal summation is summation in time: it means that a large number of inputs (depolarizations) are occurring at a high frequency, i.e. within a short period of time. This may only involve one neuron, but firing at rapid rate.
+
+Rapid firing occurs when the stimulus intensity is high, e.g. a loud sound, an intense pain, a bright light, etc.
+
+Spatial summation occurs when many inputs from different neurons act at the same time.
+
+81
+
+
+
+
+
+Spread of Graded Potential
+
+Spatial
+
+summation
+
+Second
+
+depolarization
+
+near the first
+
+82
+
+Graded potentials spread and overlap and can summate to produce a threshold depolarization and an action potential when they stimulate voltage gated ion channels in the neuron's trigger region. There would likely be additional depolarizations from additional neurons overlapping and further adding to the total depolarization.
+
+82
+
+
+
+
+
+Temporal and Spatial Summation
+
+Two stimuli close
+
+Two stimuli close
+
+together on the
+
+together in time
+
+membrane
+
+83
+
+a) Two sub-threshold depolarizations, occurring separately will not produce a threshold depolarization.
+
+b) When the two stimuli occur in rapid succession, so that they build upon one another, the depolarizations reach threshold by temporal summation.
+
+c)
+
+When the depolarizations occur at exactly the same time, because they are from different sources, they can also sum, by spatial summation, to produce threshold depolarization.
+
+d)
+
+If one stimulus is an inhibitory stimulus, it cancels out the depolarizing stimulus, making it less likely that threshold will be reached.
+
+83
+
+
+
+This audio covers
+
+slides 8487
+
+Summation in a Reflex Pathway
+
+Inputs from sensory neurons Inputs from the brain Other Input Spatial
+
+Spatial
+
+summation –
+
+summation –
+
+several stimuli
+
+several stimuli
+
+add together.
+
+add together.
+
+- 5mv - 5mv
+
+- 5mv
+
+Resting potential -70mv
+
+Threshold potential - 55mv
+
+Given: -15 mv depolarization required to reach threshold.
+
+Motor Neuron in Withdrawal Reflex
+
+To Effector
+
+84
+
+Here’s what summation, facilitation, and inhibition look like mathematically.
+
+We are looking at inputs to a motor neuron which is part of a reflex pathway, for withdrawal for instance. Whether the neuron will “fire” (send a signal to the muscle) depends upon whether threshold is reached as a result of summation. Inputs to this neuron include some from sensory or interneurons, and others from the brain.
+
+If the resting potential is -70 mv (inside compared to outside), and the threshold is -55 mv, it will take 15 mv of depolarization to produce threshold.
+
+A single input of 5 mv will not produce threshold, but three, from three different neurons, will sum by spatial summation to produce threshold depolarization.
+
+84
+
+
+
+This audio covers
+
+slides 8487
+
+Summation in a Reflex Pathway
+
+Inputs from sensory neurons Inputs from the brain Other Input Action potential
+
+- 5mv
+
+Temporal summation
+
+Temporal summation
+
+Action potential
+
+- 5mv
+
+– high frequency
+
+frequenc
+
+frequenc y
+
+y
+
+- 5mv
+
+– high frequency
+
+- 5mv
+
+correlates with
+
+stimuli add together.
+
+stimuli add together.
+
+correlates with
+
+- 5mv
+
+stimulus strength.
+
+- 5mv
+
+stimulus strength.
+
+- 5mv
+
+Resting potential -70mv
+
+Threshold potential - 55mv
+
+Given: -15 mv depolarization required to reach threshold.
+
+Motor Neuron in Withdrawal Reflex
+
+To Effector
+
+85
+
+If instead of several different inputs from different neurons there is only one input from a single neuron, but it occurs with a high frequency, this will sum by temporal summation to produce threshold depolarization.
+
+85
+
+
+
+This audio covers
+
+slides 8487
+
+Summation in a Reflex Pathway
+
+Facilitation –
+
+Facilitation – p
+
+p rior depolarization of a
+
+rior depolarization of a
+
+Inputs from se
+
+path ns
+
+w or
+
+ayy neurons Inputs from the br
+
+makes it more likely to ain Other Input pathway makes it more likely to
+
+occur, requires less additional
+
+occur, requires less additional
+
+stimuli.
+
+stimuli.
+
+facilitated
+
+- 5mv
+
+- 5mv
+
+- 5mv
+
+Resting potential -70mv
+
+Threshold potential - 55mv
+
+Given: -15 mv depolarization required to reach threshold.
+
+Motor Neuron in Withdrawal Reflex
+
+To Effector
+
+86
+
+Facilitation - When the brain causes an EPSP in advance of a reflex pathway being stimulated, it makes the reflex more likely to occur, requiring less additional stimulation. When we anticipate a stimulus we often facilitate the reflex.
+
+86
+
+
+
+This audio covers
+
+slides 8487
+
+Summation in a Reflex Pathway
+
+Inhibition –
+
+Inhibition – p
+
+p rior hyperpolarization
+
+rior hyperpolarization o
+
+o f
+
+f
+
+Inputs from sensor
+
+a path y
+
+w ne
+
+a urons Inputs from the br
+
+y makes it less likely
+
+ai
+
+to n Other Input
+
+a pathway makes it less likely to
+
+occur, requires more additional
+
+occur, requires more additional
+
+stimuli.
+
+stimuli.
+
+inhibited
+
+- 5mv
+
++ 5mv
+
+- 5mv
+
++
+
+- 5mv
+
+Resting potential -70mv
+
+Threshold potential - 55mv
+
+Given: -15 mv depolarization required to reach threshold.
+
+Motor Neuron in Withdrawal Reflex
+
+To Effector
+
+87
+
+Inhibition - When the brain causes an IPSP in advance of a reflex pathway being stimulated, it reduces the likelihood of the reflex occurring by increasing the depolarization required. The pathway can still work, but only with more than the usual number or degree of stimulation. We inhibit reflexes when allowing ourselves to be given an injection or blood test for instance.
+
+87
+
+
+
+Types of Facilitation
+
+Learned Reflexes - These are reflex pathways facilitated by the brain. We “learn” pathways by performing them over and over again and they become facilitated.
+
+Post-tetanic potentiation - This occurs when we perform a rote task or other repetitive action.
+
+At first we may be clumsy at it, but after
+
+continuous use ( post-tetanic) we become more efficient at it ( potentiation). These actions may eventually become learned reflexes.
+
+88
+
+Learned Reflexes - Many athletic
+
+and other routine activities involve
+
+learned reflexes. These are reflex
+
+pathways facilitated by the brain. We
+
+learn the pathways by performing
+
+them over and over again and they
+
+become facilitated. This is how we
+
+can perfect our athletic performance,
+
+but only if we learn and practice them
+
+correctly. It is difficult to "unlearn"
+
+improper techniques once they are
+
+established reflexes. Like "riding a
+
+bike" they may stay with you for your
+
+entire life!
+
+88
+
+
+
+Synaptic vs. Axonal Transmission
+
+Synaptic
+
+Axonal
+
+Chemical
+
+Action potential – wave
+
+of depolarization
+
+One way across the
+
+synapse
+
+Spreads in all directions
+
+Not all-or-none,
+
+All – or - none
+
+summation occurs
+
+89
+
+A comparison of the characteristics of synaptic and axonal (membrane) transmission. Chemically-gated ion channels are responsible for synaptic transmission, whereas voltage-gated channels are responsible for action potentials along the axon.
+
+89
+
+
+
+
+
+Action of Voltage-Gated Channels -
+
+Voltage Gated Channels
+
+Flash Video
+
+Real Media with Audio Narration
+
+The Action Potential
+
+Excess
+
+Na+ gates close, K+ gates open
+
+Na+
+
+enters
+
+Na+
+
+gates
+
+Excess K+ leaves cell
+
+open
+
+K+ gates closing
+
+Resting
+
+potential
+
+90
+
+Depolarization at trigger region
+
+The trigger region of a neuron is the region where the voltage gated channels begin. When summation results in threshold depolarization in the trigger region of a neuron, an action potential is produced. There are both sodium and potassium channels.
+
+90
+
+
+
+
+
+This audio
+
+covers
+
+slides 91-94
+
+Membrane potential (mV)
+
+91
+
+Figure 11.12
+
+There are both sodium and potassium channels. Each sodium channel has an activation gate and an inactivation gate, while potassium channels have only one gate.
+
+1) At the resting state the sodium activation gates are closed, sodium inactivation gates are open, and potassium gates are closed. Resting membrane potential is at around -70 mv inside the cell.
+
+91
+
+
+
+
+
+This audio
+
+covers
+
+slides 91-94
+
+Membrane potential (mV)
+
+92
+
+Figure 11.12
+
+2) Depolarizing phase: The action potential begins with the activation gates of the sodium channels opening, allowing Na+ ions to enter the cell and causing a sudden depolarization which leads to the spike of the action potential. Excess Na+ ions enter the cell causing reversal of potential becoming briefly more positive on the inside of the cell membrane.
+
+92
+
+
+
+
+
+This audio
+
+covers
+
+slides 91-94
+
+Membrane potential (mV)
+
+93
+
+Figure 11.12
+
+3) Repolarizing phase: The sodium inactivation gates close and potassium gates open. This causes Na+ ions to stop entering the cell and K+ ions to leave the cell, causing repolarization. Until the membrane is repolarized it cannot be stimulated, called the absolute refractory period.
+
+93
+
+
+
+
+
+This audio
+
+covers
+
+slides 91-94
+
+Membrane potential (mV)
+
+94
+
+Figure 11.12
+
+4) Excess potassium leaves the cell causing a brief hyperpolarization.
+
+Sodium activation gates close and potassium gates begin closing. The sodium-potassium pump begins to re-establish the resting membrane potential. During hyperpolarization the membrane can be stimulated but only with a greater than normal depolarization, the relative refractory period.
+
+94
+
+
+
+
+
+Ion Channels In Action - Flash Video
+
+95
+
+Action potentials are self-propagated, and once started the action potential progresses along the axon membrane. It is all-or-none, that is there are not different degrees of action potentials. You either have one or you don't.
+
+95
+
+
+
+
+
+Action Potential Along the Axon -
+
+A Comparison of Conduction Speeds
+
+Flash Video
+
+Saltatory Conduction
+
+Action potential
+
+Action potential
+
+spreads from node
+
+spreads from node
+
+Figure 11.16
+
+to node: saltator
+
+to node: saltator y
+
+y
+
+96
+
+conduction.
+
+conduction.
+
+On myelinated axons in the PNS the voltage-gated channels are found only at the Nodes of Ranvier. Therefore an action potential will essentially pass from one node to the next, and therefore travel faster than along other neurons. This is called saltatory conduction.
+
+96
+
+
+
+
+
+Multiple Sclerosis
+
+
+
+
+
+Document Outline
+
+
+Untitled
+
+
+
+
+

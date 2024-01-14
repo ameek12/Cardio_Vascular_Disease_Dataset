@@ -1,0 +1,610 @@
+Human Anatomy & Physiology Spinal Cord, Spinal Nerves
+
+and Somatic Reflexes
+
+13-1
+
+
+
+Spinal Cord, Spinal Nerves and Somatic Reflexes
+
+• Spinal cord
+
+• Spinal nerves
+
+• Somatic reflexes
+
+13-2
+
+Overview of Spinal Cord
+
+• Information highway between brain and body
+
+• Extends through vertebral canal from foramen magnum to L1
+
+• Each pair of spinal nerves receives sensory information and issues motor signals to muscles and glands
+
+• Spinal cord is a component of the Central Nervous System while the spinal nerves are part of the Peripheral Nervous System 13-3
+
+Functions of the Spinal Cord
+
+• Conduction
+
+– bundles of fibers passing information up and down spinal cord
+
+• Locomotion
+
+– repetitive, coordinated actions of several muscle groups
+
+– central pattern generators are pools of neurons providing control of flexors and extensors (walking)
+
+• Reflexes
+
+– involuntary, stereotyped responses to stimuli (remove hand from hot stove)
+
+– involves brain, spinal cord and peripheral nerves 13-4
+
+Anatomy of the Spinal Cord
+
+• Cylinder of nerve tissue within the vertebral canal (thick as a finger)
+
+– vertebral column grows faster so in an adult the spinal cord only extends to L1
+
+• 31 pairs of spinal nerves arise from cervical, thoracic, lumbar and sacral regions of the cord
+
+– each cord segment gives rise to a pair of spinal nerves
+
+• Cervical and lumbar enlargements
+
+• Medullary cone (conus medullaris) = tapered tip of cord
+
+• Cauda equinae is L2 to S5 nerve roots resemble 13-5
+
+horse’s tail
+
+
+
+Gross Anatomy of Lower Spinal Cord 13-6
+
+Meninges of the Spinal Cord
+
+• 3 Fibrous layers enclosing spinal cord
+
+• Dura mater
+
+– tough collagenous membrane surrounded by epidural space filled with fat and blood vessels
+
+• epidural anesthesia utilized during childbirth
+
+• Arachnoid mater
+
+– layer of simple squamous epithelium lining dura mater and loose mesh of fibers filled with CSF
+
+(creates subarachnoid space)
+
+• Pia mater
+
+– delicate membrane adherent to spinal cord
+
+– filium terminale and denticulate ligaments anchor 13-7
+
+the cord
+
+
+
+Meninges of Vertebra and Spinal Cord 13-8
+
+
+
+Spina Bifida
+
+• Congenital defect in 1 baby out of 1000
+
+• Failure of vertebral arch to close covering spinal cord
+
+• Folic acid (B vitamin) as part of a healthy diet for all women of childbearing age reduces risk 13-9
+
+
+
+Cross-Sectional Anatomy of the Spinal Cord
+
+• Central area of gray matter shaped like a butterfly and surrounded by white matter in 3 columns
+
+• Gray matter = neuron cell bodies with little myelin
+
+• White matter = myelinated axons 13-10
+
+
+
+Gray Matter in the Spinal Cord
+
+• Pair of dorsal or posterior horns
+
+– dorsal root of spinal nerve is totally sensory fibers
+
+• Pair of ventral or anterior horns
+
+– ventral root of spinal nerve is totally motor fibers
+
+• Connected by gray commissure punctured by a central canal continuous above with 4th ventricle
+
+13-11
+
+
+
+White Matter in the Spinal Cord
+
+• White column = bundles of myelinated axons that carry signals up and down to and from brainstem
+
+• 3 pairs of columns or funiculi
+
+– dorsal, lateral, and anterior columns
+
+• Each column is filled with named tracts or fasciculi (fibers with a similar origin, destination and function) 13-12
+
+
+
+Spinal Tracts
+
+• Ascending and descending tract head up or down while decussation means that the fibers cross sides
+
+• Contralateral means origin and destination are on opposite sides while ipsilateral means on same side 13-13
+
+
+
+Dorsal Column
+
+Ascending Pathway
+
+• Deep touch,
+
+visceral pain, vibration,
+
+and proprioception
+
+• Fasciculus gracilis and
+
+cuneatus carry signals
+
+from arm and leg
+
+• Decussation of 2nd
+
+order neuron in medulla
+
+• 3rd order neuron in
+
+thalamus carries signal
+
+to cerebral cortex
+
+13-14
+
+
+
+Spinothalamic
+
+Pathway
+
+• Pain, pressure,
+
+temperature, light
+
+touch, tickle and
+
+itch
+
+• Decussation of the
+
+second order
+
+neuron occurs in
+
+spinal cord
+
+• Third order neurons
+
+arise in thalamus
+
+and continue to
+
+cerebral cortex
+
+13-15
+
+Spinoreticular Tract
+
+• Pain signals from tissue injury
+
+• Decussate in spinal cord and ascend with spinothalamic fibers
+
+• End in reticular formation (medulla and pons)
+
+• 3rd and 4th order neurons continue to thalamus and cerebral cortex
+
+13-16
+
+
+
+Spinocerebellar Pathway
+
+• Proprioceptive signals from limbs and trunk travel up to the cerebellum
+
+• Second order nerves ascend in ipsilateral lateral column
+
+13-17
+
+
+
+Corticospinal
+
+Tract
+
+• Precise, coordinated
+
+limb movements
+
+• Two neuron pathway
+
+– upper motor neuron in
+
+cerebral cortex
+
+– lower motor neuron in
+
+spinal cord
+
+• Decussation in
+
+medulla
+
+13-18
+
+Descending Motor Tracts
+
+• Tectospinal tract (tectum of midbrain)
+
+– reflex turning of head in response to sights and sounds
+
+• Reticulospinal tract (reticular formation)
+
+– controls limb movements important to maintain posture and balance
+
+• Vestibulospinal tract (brainstem nuclei)
+
+– postural muscle activity in response to inner ear signals
+
+13-19
+
+Poliomyelitis and ALS
+
+• Diseases causing destruction of motor neurons and skeletal muscle atrophy
+
+• Poliomyelitis caused by poliovirus spread by fecally contaminated water
+
+– weakness progresses to paralysis and respiratory arrest
+
+• Amyotrophic lateral sclerosis
+
+– sclerosis of spinal cord due to astrocyte failure to reabsorb glutamate neurotransmitter
+
+– paralysis and muscle atrophy 13-20
+
+
+
+Anatomy of a Nerve
+
+• A nerve is a bundle of nerve fibers (axons)
+
+• Epineurium covers nerves, perineurium surrounds a fascicle and endoneurium separates individual nerve fibers
+
+13-21
+
+• Blood vessels penetrate only to the perineurium
+
+
+
+Anatomy of Ganglia in the PNS
+
+• Cluster of neuron cell bodies in nerve in PNS
+
+• Dorsal root ganglion is sensory cell bodies
+
+– fibers pass through without synapsing 13-22
+
+
+
+Spinal Nerve Roots and Plexuses 13-23
+
+The Spinal Nerves
+
+• 31 pairs of spinal nerves (1st cervical above C1)
+
+– mixed nerves exiting at intervertebral foramen
+
+• Proximal branches
+
+– dorsal root is sensory input to spinal cord
+
+– ventral root is motor output of spinal cord
+
+– cauda equina is roots from L2 to C0 of the cord
+
+• Distal branches
+
+– dorsal ramus supplies dorsal body muscle and skin
+
+– ventral ramus to ventral skin and muscles and limbs
+
+– meningeal branch to meninges, vertebrae and ligaments
+
+13-24
+
+
+
+Branches of a Spinal Nerve
+
+• Spinal nerves: 8
+
+cervical, 12 thoracic, 5
+
+lumbar, 5 sacral and 1
+
+coccygeal.
+
+• Each has dorsal and
+
+ventral ramus.
+
+13-25
+
+
+
+Rami of Spinal Nerves
+
+• Notice the branching and merging of nerves in this example of a plexus 13-26
+
+Shingles
+
+• Skin eruptions along path of nerve
+
+• Varicella-zoster virus (chicken pox) remains for life in dorsal root ganglia
+
+• Occurs after age 50 if immune system is compromised
+
+• No special treatment
+
+13-27
+
+Nerve Plexuses
+
+• Ventral rami branch and anastomose repeatedly to form 5 nerve plexuses
+
+– cervical in the neck, C1 to C5
+
+• supplies neck and phrenic nerve to the diaphragm
+
+– brachial in the armpit, C5 to T1
+
+• supplies upper limb and some of shoulder and neck
+
+– lumbar in the low back, L1 to L4
+
+• supplies abdominal wall, anterior thigh and genitalia
+
+– sacral in the pelvis, L4, L5 and S1 to S4
+
+• supplies remainder of lower trunk and lower limb
+
+– coccygeal, S4, S5 and C0
+
+13-28
+
+
+
+The Cervical Plexus
+
+13-29
+
+
+
+The Brachial Plexus
+
+13-30
+
+
+
+The Lumbar Plexus
+
+13-31
+
+
+
+The Sacral and Coccygeal Plexuses 13-32
+
+
+
+Cutaneous Innervation and Dermatomes
+
+• Each spinal nerve
+
+receive sensory input
+
+from a specific area of
+
+skin called dermatome
+
+• Overlap at edges by
+
+50%
+
+– a total loss of sensation
+
+requires anesthesia of 3
+
+successive spinal nerves
+
+13-33
+
+Nature of Somatic Reflexes
+
+• Quick, involuntary, stereotyped reactions of glands or muscle to sensory stimulation
+
+– automatic responses to sensory input that occur without our intent or often even our awareness
+
+• Functions by means of a somatic reflex arc
+
+– stimulation of somatic receptors
+
+– afferent fibers carry signal to dorsal horn of spinal cord
+
+– one or more interneurons integrate the information
+
+– efferent fibers carry impulses to skeletal muscles
+
+– skeletal muscles respond
+
+13-34
+
+
+
+The Muscle Spindle
+
+• Sense organ (proprioceptor) that monitors length of muscle and how fast muscles change in length
+
+• Composed of intrafusal muscle fibers, afferent fibers and gamma motorneurons
+
+13-35
+
+The Stretch (Myotatic) Reflex
+
+• When a muscle is stretched, it contracts and maintains increased tonus (stretch reflex)
+
+– helps maintain equilibrium and posture
+
+• head starts to tip forward as you fall asleep
+
+• muscles contract to raise the head
+
+– stabilize joints by balancing tension in extensors and flexors smoothing muscle actions
+
+• Very sudden muscle stretch causes tendon reflex
+
+– knee-jerk (patellar) reflex is monosynaptic reflex
+
+– testing somatic reflexes helps diagnose many diseases
+
+• Reciprocal inhibition prevents muscles from working against each other
+
+13-36
+
+
+
+The Patellar Tendon Reflex Arc 13-37
+
+
+
+Flexor Withdrawal Reflexes
+
+• Occurs during
+
+withdrawal of foot
+
+from pain
+
+• Polysynaptic
+
+reflex arc
+
+• Neural circuitry in
+
+spinal cord
+
+controls sequence
+
+and duration of
+
+muscle
+
+contractions
+
+13-38
+
+
+
+Crossed Extensor Reflexes
+
+• Maintains balance by
+
+extending other leg
+
+• Intersegmental reflex
+
+extends up and down
+
+the spinal cord
+
+• Contralateral reflex
+
+arcs explained by
+
+pain at one foot
+
+causes muscle
+
+contraction in other
+
+leg
+
+13-39
+
+
+
+Golgi Tendon Reflex
+
+• Proprioceptors in a
+
+tendon near its
+
+junction with a
+
+muscle -- 1mm long,
+
+encapsulated nerve
+
+bundle
+
+• Excessive tension
+
+on tendon inhibits
+
+motor neuron
+
+– muscle contraction
+
+decreased
+
+• Also functions when
+
+muscle contracts
+
+unevenly
+
+13-40
+
+Spinal Cord Trauma
+
+• 10-12,000 people/ year are paralyzed
+
+• 55% occur in traffic accidents
+
+• This damage poses risk of respiratory failure
+
+• Early symptoms are called spinal shock
+
+• Tissue damage at time of injury is followed by post-traumatic infarction 13-41
+
+
+
+
+

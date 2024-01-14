@@ -1,0 +1,5326 @@
+Human Anatomy (Biology 2)
+
+
+
+
+
+Lecture Notes
+
+
+
+
+
+Updated July 2017
+
+
+Instructor: Rebecca Bailey
+
+
+
+
+
+1
+
+Chapter 1
+
+The Human Body: An Orientation
+
+
+
+
+
+• Terms
+
+
+
+- Anatomy: the study of body structure and relationships among structures
+
+
+
+- Physiology: the study of body function
+
+
+
+• Levels of Organization
+
+
+
+- Chemical level
+
+1. atoms and molecules
+
+
+
+
+
+- Cells
+
+1. the basic unit of all living things
+
+
+
+
+
+- Tissues
+
+1. cells join together to perform a particular function
+
+
+
+
+
+- Organs
+
+1. tissues join together to perform a particular function
+
+
+
+
+
+- Organ system
+
+1. organs join together to perform a particular function
+
+
+
+
+
+- Organismal
+
+1. the whole body
+
+
+
+• Organ Systems
+
+
+
+• Anatomical Position
+
+
+
+• Regional Names
+
+
+
+- Axial region
+
+1. head
+
+2. neck
+
+3. trunk
+
+a. thorax
+
+b. abdomen
+
+c. pelvis
+
+d. perineum
+
+
+
+
+
+- Appendicular region
+
+1. limbs
+
+
+
+• Directional Terms
+
+
+
+- Superior (above) vs. Inferior (below)
+
+
+
+- Anterior (toward the front) vs. Posterior (toward the back)(Dorsal vs. Ventral)
+
+
+
+- Medial (toward the midline) vs. Lateral (away from the midline)
+
+
+
+- Intermediate (between a more medial and a more lateral structure)
+
+
+
+- Proximal (closer to the point of origin) vs. Distal (farther from the point of origin)
+
+
+
+- Superficial (toward the surface) vs. Deep (away from the surface)
+
+
+
+• Planes and Sections divide the body or organ
+
+
+
+
+
+- Frontal or coronal
+
+1. divides into anterior/posterior
+
+
+
+
+
+2
+
+
+
+
+
+- Sagittal
+
+1. divides into right and left halves
+
+2. includes midsagittal and parasagittal
+
+
+
+
+
+- Transverse or cross-sectional
+
+1. divides into superior/inferior
+
+
+
+• Body Cavities
+
+
+
+- Dorsal
+
+1. cranial cavity
+
+2. vertebral cavity
+
+
+
+
+
+- Ventral
+
+1. lined with serous membrane
+
+2. viscera (organs) covered by serous membrane 3. thoracic cavity
+
+a. two pleural cavities contain the lungs
+
+b. pericardial cavity contains heart
+
+c. the cavities are defined by serous membrane d. mediastinum is the area between the pleurae, includes everything in thoracic cavity except lungs
+
+4. abdominopelvic cavity
+
+a. abdominal cavity is lined by peritoneum (serous membrane), which also covers organs b. pelvic cavity has reproductive organs, bladder, portions of large intestine c. regions and quadrants
+
+
+
+
+
+3
+
+Chapter 2
+
+
+
+
+
+Cells
+
+
+• Cell basics
+
+
+
+- about 100 trillion cells in a human
+
+
+
+
+
+- size and shape related to function
+
+
+
+
+
+- in general very small, but a range of sizes
+
+1. 8 - 140 µm in diameter, but typically 10 - 20 µm (µm=1/1000 mm or 1/25,000 inch)
+
+
+
+
+
+- the Generalized Cell and its major parts
+
+1. plasma membrane separates inside from outside a. intracellular fluid (ICF)
+
+b. extracellular fluid (ECF)
+
+2. nucleus is the control center
+
+3. cytoplasm is everything between the nucleus and the plasma membrane a. cytosol - semiliquid portion (ICF), which suspends the other parts and is a site of chemical reaction
+
+b. organelles - specialized structures with specific functions c. inclusions - temporary storage structures
+
+
+
+• The Plasma Membrane
+
+
+
+- Structure
+
+1. phospholipid bilayer is the basic structure a. important for fluidity
+
+b. is a barrier
+
+2. cholesterol
+
+a. fluidity and stability
+
+3. proteins
+
+a. integral proteins span the membrane, may be channels, transporters, receptors b. peripheral proteins are on one side only, may be enzymes or anchors for cytoskeleton 4. carbohydrates
+
+a. on outer surface only, includes glycoproteins and glycolipids (collectively called glycocalyx), important for recognition of self, attachments to other cells
+
+
+
+
+
+- Basic functions
+
+1. communication within body and with non-self cells 2. defines boundaries and protects
+
+3. maintains chemical and electrical gradients 4. selective permeability - controls what gets in and out
+
+
+
+
+
+- Membrane Transport
+
+1. Passive (cell does not use up its own energy) a. diffusion - molecules move down their concentration gradient from greater → lesser concentration, charged molecules move down electrochemical gradients 1) simple diffusion - moves through bilayer or protein channel 2) osmosis - water moves across bilayer
+
+3) facilitated diffusion - uses a protein carrier b. filtration - water and solutes forced through membrane by hydrostatic pressure 2. Active (requires the cell to use its ATP)
+
+a. carrier proteins transport substance against its concentration gradient b. endocytosis - substance brought into cell
+
+1) piece of membrane surrounds substance and pinches off inside cell (vesicle) 2) pinocytosis (cell drinking) and phagocytosis (cell eating) c. exocytosis - opposite of endocytosis
+
+
+
+4
+
+• Nucleus
+
+
+
+- Usually round, at cell center
+
+1. double membrane
+
+2. has large nuclear pores
+
+3. contains nucleoli - parts to make ribosomes 4. contains DNA
+
+a. in the form of chromatin when cell not dividing (long thin strands) b. in the form of chromosomes when cell dividing (coiled up)
+
+
+
+• Organelles (see table in text for summary)
+
+
+
+- Endoplasmic reticulum (ER)
+
+1. membranous network of channels
+
+2. rough ER
+
+a. has ribosomes (rRNA plus proteins)
+
+b. protein and lipid synthesis
+
+3. smooth ER
+
+a. continues processing of rough ER products
+
+b. specialized in some cells for lipid synthesis or detoxifying chemicals
+
+
+
+
+
+- Golgi complex
+
+1. stacked membranous sacs
+
+2. processing, sorting, packaging of ER products 3. makes vesicles for transport to destinations inside cell, or for secretion
+
+
+
+
+
+- Lysosomes
+
+1. sacs contain digestive enzymes
+
+a. recycles material from cell
+
+b. breaks down substances brought in by endocytosis
+
+
+
+
+
+- Peroxisomes
+
+1. sacs contain oxidative enzymes - O2 used to detoxify harmful substances
+
+
+
+
+
+- Mitochondria
+
+1. double-membraned, makes ATP via cellular respiration a. inner membrane has folds called cristae
+
+b. gel inside called matrix
+
+
+
+
+
+- Vaults
+
+1. probably involved in transport between nucleus and cytoplasm
+
+
+
+
+
+- Centrosome
+
+1. found near nucleus
+
+2. consists of centrioles (protein tubules) surrounded by a centrosome matrix (a cloud of protein) 3. organizing center for parts of the cytoskeleton
+
+
+
+• Cytoskeleton
+
+
+
+- protein filaments running through cytosol
+
+1. important in movement of cell and within cell 2. supports cell and organelles
+
+
+
+
+
+- cell projections for movement made of microtubules 1. flagella (on sperm) - one long projection, moves the whole cell 2. cilia are many small projections that move substances across the surface of the cell
+
+
+
+• Inclusions
+
+
+
+- No membrane, temporary storage of products like fat or glycogen 5
+
+
+
+• Cell Division
+
+
+
+- Cells must divide for growth, replacement of dead cells, reproduction of the organism (making sperm/eggs)
+
+
+
+
+
+- in somatic cells (typical body cells), division involves making two "daughter cells" that are identical to the "parent cell"
+
+
+
+
+
+- Cell cycle
+
+1. the sequence of events from the time a cell begins to divide until the time the daughter cells divide
+
+2. cells divide at different rates
+
+a. some don't divide at all, like mature neurons and RBCs b. rapid dividers include skin cells and the cells lining the digestive tract c. once a cell is going to divide the whole cycle may take 18 - 24 hours 3. Interphase
+
+a. most of the cell's time spent in this phase b. lots of metabolic activity, performing the cell's usual functions c. consists of:
+
+1) G1 - growth, can last several hours to days or years, toward the end the centrioles begin replication
+
+2) S - DNA synthesis (cell must double the amount of DNA so both daughter cells have the correct genetic material)
+
+3) G2 - another growth phase
+
+4. Mitosis (nuclear division, lasts about 2 hours) a. prophase - chromatin coils up into chromosomes, nucleoli and nuclear membrane break apart, mitotic spindle forms from centrioles
+
+b. metaphase - chromosomes line up in center of mitotic spindle c. anaphase - chromosomes pull apart
+
+d. telophase - chromosomes uncoil, nucleoli and nuclear membrane form, mitotic spindle breaks down
+
+5. Cytokinesis
+
+a. division of the cytoplasm
+
+b. in late anaphase or early telophase the plasma membrane indents (cleavage furrow) and pinches into two separate cells
+
+
+
+
+
+6
+
+Chapter 4
+
+
+
+
+
+Tissues
+
+
+• Four major tissue types
+
+
+
+- Epithelial (epithelium)
+
+1. covers and lines body parts (sheets of cells) 2. glandular epithelium
+
+a. two major types
+
+1) endocrine glands secrete hormones to blood (no ducts) 2) exocrine secrete products into ducts that open to skin or lumen of organ b. structural classification of exocrine glands 1) multicellular - form a distinctive structure or organ (e.g., sweat, salivary) 2) unicellular - have no ducts but still considered exocrine (e.g., goblet cells) c. functional classification of exocrine glands 1) holocrine - cell accumulates product, cell dies, bursts open and substance secreted (e.g., sebaceous)
+
+2) merocrine - secrete by exocytosis (most glands) 3. epithelial sheets - special characteristics a. continuous sheets of closely packed, tightly joined cells b. have apical (free) and basal surface
+
+c. attached to 2-layered basement membrane
+
+1) basal lamina - proteins and polysaccharides secreted by epithelial cells 2) reticular lamina - protein fibers and glycoproteins secreted by underlying connective tissue
+
+d. avascular - exchanges occur by diffusion from blood supply of underlying connective tissue
+
+e. have nerve supply
+
+f. high capacity for regeneration (lots of mitosis) g. basic functions - protection, secretion, absorption
+
+
+
+
+
+- Connective tissue
+
+1. special characteristics
+
+a. made up of living cells plus non-living extracellular matrix 1) -blasts are immature cells that secrete matrix (e.g., fibroblasts, chondroblasts, osteoblasts)
+
+2) -cytes are mature cells that help maintain matrix (e.g., chondrocytes, osteocytes) 3) other cell types include macrophages, plasma cells (secrete antibodies), mast cells (store chemicals that help fight invaders)
+
+4) matrix consists of protein fibers embedded in ground substance (polysaccharides and proteins); supports cells structurally and functionally 5) fibers include collagen (strong, flexible), elastin (strong, very stretchy), reticular fibers (collagen with coating of glycoprotein, forms branching networks that support tissues and organs)
+
+b. has nerve supply, except cartilage
+
+c. most highly vascular, except cartilage which is avascular, and tendons/ligaments which have a low supply
+
+d. functions - support, protection, binding
+
+
+
+
+
+- Muscle tissue
+
+1. generates force, movement, generates heat
+
+2. three types - skeletal, cardiac, smooth
+
+
+
+
+
+- Nervous tissue
+
+1. initiates and transmits electrical signals 2. neurons and neuroglia (support cells)
+
+
+
+
+
+7
+
+• Cell Junctions
+
+
+
+- Tight junctions
+
+1. adjacent plasma membranes are fused
+
+2. forms barrier that prevents leakage
+
+3. common in epithelial sheets
+
+
+
+
+
+- Gap junctions
+
+1. cells linked by protein tunnels called connexons 2. allow small molecules to pass between cells 3. important in conducting electrical signals (e.g., cardiac muscle)
+
+
+
+
+
+- Desmosomes
+
+1. scattered over membrane surface
+
+2. found all over body, but more common in tissues that experience stretching (e.g., skin, digestive tract)
+
+
+
+
+
+• Membranes
+
+
+
+- Most are epithelial membranes
+
+1. epithelium with underlying CT
+
+
+
+
+
+- Cutaneous membrane covers body surface (skin)
+
+
+
+
+
+- Mucous membranes (mucosa)
+
+1. line body cavities open to the exterior
+
+a. in respiratory, digestive, reproductive and urinary systems 2. form a barrier to invaders, important in body defense 3. tight junctions prevent leakage
+
+4. secretes mucus, which moistens, lubricates, traps dust and invaders 5. underlying CT layer called lamina propria
+
+6. formed from different kinds of epithelium
+
+
+
+
+
+- Serous membranes (serosa)
+
+1. lines body cavities not open to exterior, covers organs 2. simple squamous epithelium with areolar CT
+
+3. two layers
+
+a. parietal - attached to cavity wall
+
+b. visceral - covers organs
+
+c. between layers is serous fluid secreted by the epithelial cells 4. includes pleurae, pericardium, peritoneum
+
+
+
+
+
+- Synovial membranes
+
+1. line cavities of synovial joints
+
+2. no epithelium
+
+3. areolar CT with elastic fibers and fat
+
+4. secretes synovial fluid to lubricate joint 8
+
+Chapter 5
+
+
+
+
+
+Integumentary System
+
+
+• Epidermis
+
+
+
+- Keratinized stratified squamous epithelium
+
+1. keratinocytes (90% of cells)
+
+a. produce fibrous protein keratin (as intermediate filaments of cytoskeleton) b. help provide protective properties of skin 2. melanocytes (8%)
+
+a. produce pigment melanin that protects from UV light b. have projections that extend between keratinocytes, keratinocytes phagocytize projections to take in melanin
+
+3. dendritic cells
+
+a. produced in red bone marrow
+
+b. important in immune response
+
+c. projections form a network in some layers
+
+4. tactile epithelial cells
+
+a. associated with nerve endings (tactile discs) b. important in sense of touch
+
+
+
+- Thickness ranges from .1 mm – 2 mm
+
+
+
+
+
+- Layers of epidermis (strata, from deep → superficial) 1. stratum basale
+
+a. one row of mainly cuboidal or columnar keratinocytes b. melanocytes and tactile cells scattered among keratinocytes c. divide often, older cells push upward and become parts of other layers (accumulate more keratin)
+
+d. also known as stratum germinativum
+
+2. stratum spinosum
+
+a. 8 - 10 cells thick, more superficial keratinocytes are flatter b. some keratinocytes can still divide
+
+c. dendritic cells and projections of melanocytes 3. stratum granulosum
+
+a. 3 - 5 cells thick, flattened keratinocytes b. nuclei and organelles degenerate, lots of keratin (many cells dead) c. cells contain keratohyaline granules (no membrane, bundles together keratin filaments) d. also lamellar granules (membrane, lots of lipids, forms waterproof barrier between this and superficial layers)
+
+4. stratum lucidum
+
+a. only in thicker skin (palms and soles)
+
+b. 3 - 5 cells thick, very flat, dead keratinocytes c. lots of keratin and keratohyaline
+
+5. stratum corneum
+
+a. 25 - 30 cells thick, very flat, dead keratinocytes b. lots of keratin, keratohyaline and lipids from lamellar granules c. waterproof barrier that protects from light, heat, chemicals and invaders d. constantly shed
+
+
+
+• Dermis
+
+
+
+- Connective tissue with other embedded structures 1. cells include fibroblasts, macrophages
+
+2. contains blood vessels and nerves
+
+3. glands and hair follicles are embedded
+
+
+
+
+
+9
+
+
+
+- Regions of dermis
+
+1. papillary region
+
+a. areolar CT with elastic fibers
+
+b. projects into epidermis as dermal papillae c. loops of capillaries
+
+d. touch receptors
+
+e. cause ridges in epidermis (fingerprints)
+
+2. reticular region
+
+a. dense irregular CT with lots of collagen and some elastin b. contains bits of adipose, hair follicles, nerves, oil and sweat glands c. differs in thickness in different body areas (up to 2 mm)
+
+
+
+• Hypodermis
+
+
+
+- Attaches dermis to underlying structures
+
+1. areolar and adipose
+
+
+
+
+
+- Also known as subcutaneous layer or superficial fascia
+
+
+
+
+
+- Contains blood vessels and nerves
+
+
+
+• Functions of Integumentary System
+
+
+
+- Temperature regulation
+
+1. evaporation of sweat decreases body T
+
+2. changes in blood flow (more blood → lose heat, less blood → conserve heat)
+
+
+
+
+
+- Protection
+
+1. physical barrier to invasion, dehydration and UV radiation 2. contains cells of immune system
+
+
+
+
+
+- Sensation
+
+1. nerve cells with receptors for pain, touch, pressure, temperature
+
+
+
+- Excretion
+
+1. water and dissolved substances in sweat
+
+
+
+- Acts as a blood reservoir
+
+
+
+
+
+1. flow can be shifted to hard-working muscles if needed
+
+
+
+
+
+- Vitamin D synthesis
+
+1. epidermis makes inactive form of vitamin D upon exposure to UV
+
+2. important in absorption of calcium
+
+
+
+• Derivatives of the Epidermis (skin appendages)
+
+
+
+- Hair
+
+1. dead, keratinized cells
+
+2. shaft projects from surface of skin
+
+3. root is beneath skin surface
+
+a. surrounded by hair follicle (from epidermis) b. root plexus consists of nerve endings that contribute to sense of touch 4. arrector pili
+
+a. smooth muscle
+
+b. can make hair "stand up" with cold or emotional stress 5. functions
+
+a. protect from light
+
+b. decrease heat loss
+
+c. protect eyes and nose from particles
+
+d. sense of touch
+
+e. hold chemical signals (pheromones)
+
+
+
+10
+
+
+
+- Sebaceous (oil) glands
+
+1. holocrine glands
+
+2. ducts usually open to hair follicle
+
+3. secrete sebum
+
+a. mix of fats, cholesterol, proteins, salts, pheromones b. coats hairs
+
+c. holds moisture in the skin
+
+d. inhibits most bacterial growth
+
+
+
+
+
+- Sudoriferous (sweat) glands
+
+1. eccrine sweat glands (functionally merocrine) a. on most skin
+
+b. ducts open to skin surface
+
+c. secrete sweat
+
+1) water, salt, some wastes (urea, ammonia)
+
+2) mainly for cooling body, some excretion, acidity protects from bacteria 2. apocrine sweat glands (functionally merocrine) a. axillary, genital and anal regions
+
+b. ducts open to hair follicles
+
+c. secrete sweat, fats and proteins
+
+d. may function in sexual signaling (pheromones)
+
+
+
+
+
+- Nails
+
+1. hard, keratinized cells
+
+2. nail body is visible
+
+3. root is under skin
+
+4. functions - grasp and manipulate objects, scratching 11
+
+Chapter 6
+
+
+
+
+
+Bones and Skeletal Tissues
+
+
+• Functions of bone
+
+
+
+- Support soft tissues
+
+
+
+
+
+- Protection of internal organs
+
+
+
+
+
+- Movement
+
+1. points of muscle attachment
+
+2. form joints
+
+
+
+
+
+- Mineral storage
+
+1. mainly calcium and phosphorous
+
+
+
+
+
+- Production of blood cells
+
+1. red marrow in some bones
+
+
+
+
+
+- Energy storage
+
+1. yellow marrow is mostly fat
+
+
+
+• Types of Bones
+
+
+
+- Long bones
+
+1. longer than they are wide (e.g., most bones of limbs)
+
+
+
+
+
+- Short bones
+
+1. roughly cube shaped (e.g., bones of wrist and ankle) 2. sesamoid bones- in tendons, provide support (e.g., patella)
+
+
+
+
+
+- Flat bones
+
+1. flat and curved (e.g., cranial bones, ribs, sternum, scapula)
+
+
+
+
+
+- Irregular bones
+
+1. complex shapes (e.g., vertebrae and hip bones)
+
+
+
+• Basic structure of a long bone
+
+
+
+- Diaphysis
+
+1. long part of bone (shaft)
+
+
+
+- Epiphyses
+
+1. ends of the bone
+
+
+
+
+
+- Articular cartilage
+
+1. hyaline cartilage covering ends of bone
+
+2. decreases friction and absorbs shock
+
+
+
+
+
+- Periosteum
+
+1. white fibrous membrane covering surfaces not covered by articular cartilage a. outer fibrous layer
+
+1) dense irregular CT
+
+2) blood and lymphatic vessels, nerves
+
+b. inner osteogenic layer
+
+1) elastic fibers, blood vessels, bone cells
+
+2. functions
+
+a. bone growth in thickness
+
+b. repair of fractures
+
+c. protects and nourishes
+
+d. point of attachment for ligaments and tendons 12
+
+
+
+- Medullary cavity
+
+1. cavity in diaphysis containing yellow marrow
+
+
+
+
+
+- Endosteum
+
+1. lining of marrow cavities
+
+2. delicate CT with bone cells
+
+
+
+• Histology
+
+
+
+- Cells
+
+1. osteoblasts
+
+a. secrete collagen and other parts of bone tissue b. on inner and outer bone surfaces
+
+c. become osteocytes
+
+2. osteocytes
+
+a. main cells of bone tissue
+
+b. in cavities within bone called lacunae
+
+c. exchange nutrients and wastes with blood
+
+3. osteoclasts
+
+a. may come from circulating WBCs
+
+b. on inner and outer bone surfaces
+
+c. break down bone (resorption)
+
+
+
+
+
+- Matrix
+
+1. 25% water
+
+2. 25% protein fibers
+
+a. collagen gives bones flexibility and strength 3. 50% mineral salts
+
+a. mainly calcium phosphate and calcium carbonate (hydroxyapatite = mineral salts) b. gives bone hardness
+
+
+
+
+
+- Compact bone
+
+1. makes up outer portion of all bones and diaphyses of long bones 2. made up of osteons with interstitial lamellae in between a. blood and lymphatic vessels and nerves run through canals b. matrix arranged in lamella
+
+c. osteocytes in lacunae
+
+d. lacunae connected to one another by canaliculi (filled with ECF)
+
+
+
+
+
+- Spongy bone
+
+1. makes up most of bone tissue in short, flat and irregular bones, and epiphyses of long bones a. site of red marrow in adults (axial skeleton, girdles, proximal epiphyses of humerus and femur)
+
+2. no true osteons
+
+3. lamellae arranged in trabeculae
+
+
+
+• Ossification (formation of bone)
+
+
+
+- Intramembranous
+
+1. bone forms within a CT membrane
+
+a. most bones of skull, clavicles
+
+2. basic steps
+
+a. mesenchyme (embryonic CT) develops into osteoblasts at center of ossification, matrix is secreted
+
+b. osteoblasts are now osteocytes in lacunae
+
+c. matrix hardens as minerals deposited
+
+d. trabeculae develop (woven bone)
+
+e. outer layers replaced by compact bone
+
+
+
+13
+
+
+
+- Endochondral
+
+1. bone replaces cartilage (most bone formed this way) 2. basic steps
+
+a. hyaline cartilage model surrounded by perichondrium b. periosteum develops, bone collar forms
+
+c. cartilage in center of diaphysis calcifies d. primary ossification center forms
+
+e. secondary ossification centers form in epiphyses
+
+
+
+• Bone Growth
+
+
+
+- Growth in length of long bones
+
+1. cartilage at epiphyseal plate grows toward epiphyseal end 2. other side of epiphyseal plate ossifies
+
+3. continues until growth completed in early adulthood a. eventually the whole plate ossifies and becomes epiphyseal line
+
+
+
+
+
+- Appositional growth (growth in diameter)
+
+1. osteoclasts in endosteum destroy inner portion of bone 2. osteoblasts in periosteum produce new bone on outer surface
+
+
+
+• Bone Remodeling
+
+
+
+- Bone is constantly being broken down and reformed 1. particularly in areas where bone is stressed
+
+
+
+• Repair of Fractures
+
+
+
+- Hematoma formation
+
+1. due to broken blood vessels, hematoma forms (mass of clotted blood) 2. bone cells deprived of nutrition die
+
+3. fracture site become swollen and painful
+
+4. capillaries grow into hematoma, osteoclasts and macrophages remove dead tissue and debris
+
+
+
+
+
+- Fibrocartilage callus
+
+1. fibroblasts and osteoblasts migrate from periosteal and endosteal membranes 2. fibroblasts make collagen that connects the broken bone ends 3. chondroblasts secrete cartilage matrix
+
+4. osteoblasts form spongy bone
+
+5. this callus "splints" the bone
+
+
+
+
+
+- Bony callus
+
+1. osteoclasts and osteoblasts break down fibrocartilage callus and form bony callus
+
+
+
+
+
+- Remodeling occurs until bone completely healed 14
+
+Chapter 9
+
+
+
+
+
+Joints
+
+
+• Structural Classification
+
+
+
+- Based on whether there is a joint cavity and the type of CT
+
+1. fibrous joint
+
+a. no cavity
+
+b. fibrous CT holds bones together
+
+2. cartilaginous joint
+
+a. no cavity
+
+b. cartilage holds bones together
+
+3. synovial joint
+
+a. has synovial cavity
+
+b. articular capsule and ligaments hold bones together
+
+
+
+• Functional Classification
+
+
+
+- Based on movement allowed
+
+1. synarthroses are immovable
+
+2. amphiarthroses are partially movable
+
+3. diarthroses are freely movable
+
+
+
+• Fibrous Joints
+
+
+
+- Sutures
+
+1. in skull
+
+a. dense fibrous CT
+
+b. functionally synarthrotic
+
+2. other sutures (synostoses)
+
+a. complete fusion of bone
+
+b. functionally synarthrotic
+
+
+
+
+
+- Syndesmoses
+
+1. more CT than a suture (longer fibers)
+
+2. dense regular CT forms ligament or interosseous membrane 3. functionally amphiarthrotic (depends on length of fibers)
+
+
+
+
+
+- Gomphoses
+
+1. peg fits into a socket
+
+2. functionally synarthrotic
+
+
+
+• Cartilaginous Joints
+
+
+
+- Synchondroses
+
+1. hyaline cartilage
+
+2. epiphyseal plate is functionally synarthrosis, later becomes synostosis 3. sternum and rib 1 is synarthrosis
+
+
+
+
+
+- Symphyses
+
+1. fibrocartilage
+
+2. functionally amphiarthrotic
+
+
+
+• Synovial Joints
+
+
+
+- Basic structure
+
+1. ends of bones covered with articular cartilage (hyaline), which reduces friction and absorbs shock
+
+2. joint surrounded by articular capsule
+
+a. fibrous capsule is outer layer
+
+1) mostly dense irregular CT
+
+2) helps stabilize joint
+
+
+
+15
+
+b. synovial membrane is inner layer 1) areolar CT, elastic fibers, adipose
+
+2) secretes synovial fluid into synovial cavity, which lubricates (hyaluronic acid), supplies nutrients to articular cartilage and removes wastes (fluid is derived from plasma, coming from the blood vessels in the synovial membrane) 3. accessory ligaments
+
+a. some are intracapsular (part of articular capsule) b. some are extracapsular
+
+c. help stabilize joint
+
+
+
+4. articular discs (menisci)
+
+a. fibrocartilage
+
+b. allow better fit of bone surfaces
+
+c. found in temporomandibular, knee, sternoclavicular, distal radioulnar 5. rich nerve supply
+
+a. same nerves that supply skeletal muscles that cause movement at that joint b. sensory nerves for pain and body position
+
+
+
+6. rich blood supply
+
+
+
+7. bursae
+
+a. sacs of CT lined with synovial membrane
+
+b. provide extra cushioning between bones, tendons, ligaments, muscles and skin 8. tendon sheaths
+
+a. like bursae, but wrap around tendons where there's lots of friction b. around tendon of biceps at shoulder, at wrist and ankle
+
+
+
+
+
+- Movements at synovial joints
+
+1. gliding
+
+a. flat bone surfaces move back & forth, side to side b. example: intercarpal
+
+ii.
+
+3. angular
+
+a. change in angle between bones
+
+b. flexion (decrease in angle), example: bending elbow c. extension (increase in angle), example: straightening elbow; hyperextension is continuing beyond anatomical position
+
+d. abduction (moving bone away from midline), example: moving arm laterally e. adduction (moving bone toward midline), example: moving arm medially f. circumduction (moving in a circle, involving b-e), example: move arm in circle at shoulder 4. rotation
+
+a. movement of bone around its own longitudinal axis b. example: turning head
+
+
+
+5. special movements
+
+a. occur only at specific joints
+
+b. elevation (upward motion), examples: closing mouth, shrugging shoulders c. depression (downward motion), examples: opening mouth d. protraction (anterior movement), examples: moving jaw forward, move clavicles forward e. retraction (moving back from protracted position) f. inversion (move soles of feet medially)
+
+g. eversion (move soles of feet laterally)
+
+
+
+16
+
+h. dorsiflexion (move dorsum of foot toward tibia) i. plantar flexion (move sole of foot to "point the toe") j. supination (turning palm anteriorly or superiorly) k. pronation (turning palm posteriorly or inferiorly) l. opposition (move thumb toward fingertips)
+
+
+
+
+
+- Types of synovial joints
+
+1. gliding or plane
+
+a. articulating surfaces usually flat
+
+b. allows gliding movement
+
+c. nonaxial (does not involve movement around an axis) 2. hinge
+
+a. convex surface fits into concave surface
+
+b. allows flexion and extension
+
+c. monaxial (allows movement in a single axis) 3. pivot
+
+a. rounded or pointed surface articulates with a ring of bone and ligament b. allows rotation
+
+c. monaxial
+
+4. condyloid
+
+a. oval shaped projection fits into oval shaped depression b. allows abduction, adduction, flexion, extension, circumduction c. biaxial
+
+5. saddle
+
+a. modified condyloid with more freedom of motion b. allows abduction, adduction, flexion, extension, circumduction c. biaxial
+
+6. ball & socket
+
+a. ball shaped surface fits into a cup
+
+b. allows abduction, adduction, flexion, extension, circumduction, and rotation c. triaxial
+
+
+
+
+
+17
+
+Chapter 10
+
+
+
+
+
+Muscle Tissue
+
+
+• Muscle Basics
+
+
+
+- Three types (cells are long and thin, called fibers) 1. skeletal
+
+a. striated
+
+b. voluntary control
+
+c. many nuclei per cell
+
+d. longest fibers (extend the length of the whole muscle 2. cardiac
+
+a. striated
+
+b. involuntary control
+
+c. one nucleus per cell
+
+3. smooth
+
+a. not striated
+
+b. involuntary control
+
+c. one nucleus per cell
+
+
+
+
+
+- Functions
+
+1. movement
+
+a. of whole body or body parts (skeletal)
+
+b. of substances within body (cardiac - pumps blood, smooth - substances move through hollow organs)
+
+2. heat production (mostly skeletal)
+
+3. maintain posture and stabilize joints (skeletal)
+
+
+
+
+
+- Characteristics
+
+1. excitability - respond to stimuli like neurotransmitters (from neurons) or hormones with electrical signals
+
+2. contractility - ability to develop tension (muscle fiber may shorten) 3. extensibility - can stretch
+
+4. elasticity – assumes original length after stretching
+
+
+
+• Skeletal Muscle
+
+
+
+- Associated Connective Tissue
+
+1. superficial fascia (subcutaneous layer or hypodermis) a. areolar & adipose
+
+1) stores water and fat
+
+2) decreases heat loss
+
+3) protects underlying tissues
+
+2. deep fascia
+
+a. dense irregular
+
+1) holds together functional groups of muscle 2) allows free movement of muscles
+
+3) packs spaces between muscles, nerves and blood vessels pass through 3. less coarse CT layers
+
+a. protect and support muscle cells, reinforce whole muscle, provide elasticity 1) epimysium - dense irregular CT, wraps whole muscle 2) perimysium - dense irregular CT, wraps bundles of fibers called fascicles 3) endomysium - similar to areolar CT, lots of reticular fibers, wraps each fiber 4. all the CT layers are continuous with one another and with the tendons that attach the muscle to the periosteum of bone
+
+a. tendons are dense regular CT
+
+b. a flattened tendon is called an aponeurosis (may attach to bone, skin or another muscle) 18
+
+
+
+- Skeletal muscle cells
+
+1. very large
+
+a. 10 - 100 µm in diameter, may be many cm long 2. plasma membrane called sarcolemma
+
+3. cytoplasm called sarcoplasm
+
+a. lots of glycogen (stored form of glucose) and myoglobin (a protein that binds O2) b. contains the usual organelles plus some modified ones 4. myofibrils
+
+a. specialized organelles that run the length of the cell (100s-1000s/cell) b. made up of contractile units called sarcomeres 1) sarcomeres are made up of myofilaments
+
+2) the arrangement of myofilaments causes the striations c. myofilaments
+
+1) thick filaments- made of the protein myosin, often called cross-bridges because they can bind with the thin filaments
+
+2) thin filaments- made of the proteins actin (where myosin binds), tropomyosin and troponin
+
+5. sarcoplasmic reticulum
+
+a. specialized smooth ER that stores calcium and releases it when signaled by a nerve impulse (an electrical signal from a neuron)
+
+6. T tubules
+
+a. the sarcolemma penetrates into deeper parts of the cell, forming hollow tubes surrounding all the myofibrils
+
+b. conducts electrical signals throughout the cell so all myofibrils contract at once 7. Sliding Filament Mechanism
+
+a. when a nerve impulse signals the muscle cell, calcium is released from the SR
+
+b. this allows myosin to bind to actin and pull the thin filaments toward the center of the sarcomeres
+
+c. ATP required
+
+
+
+
+
+- Blood supply
+
+1. lots of blood needed to supply oxygen and carry away wastes from these very active cells 2. vessels penetrate CT layers, lot of capillaries in endomysium
+
+
+
+
+
+- Nerve supply (see Chapter 14)
+
+1. each muscle served by at least one motor nerve containing 100s of motor neurons a. a motor unit is one motor neuron plus all the muscle fibers it innervates b. a motor unit may have only a few muscle fibers or 1000+
+
+c. fewer muscle fibers per motor unit where fine, delicate control needed (eyes, fingers) d. more muscle fibers per motor unit where more power needed (limbs) e. activating more motor units at one time means a more powerful contraction 2. neuromuscular junction
+
+a. area where a neuron meets a muscle fiber
+
+b. separated by a gap called synaptic cleft
+
+c. when an electrical signal (action potential) travels to the end of a neuron, the neuron releases a chemical message called a neurotransmitter (specifically, acetylcholine at the neuromuscular junction, also known as ACh)
+
+d. the ACh binds to the muscle cell, and initiates an electrical signal (action potential) there e. this ultimately results in the muscle fiber contracting
+
+
+
+- Muscle tone
+
+1. small groups of motor units are periodically activated involuntarily 2. this keeps the muscle ready to contract
+
+
+
+
+
+19
+
+
+
+- Fiber types
+
+1. red slow twitch (a.k.a. slow oxidative)
+
+a. small
+
+b. contract slowly (use ATP at a slow rate), have lots of mitochondria, myoglobin, good capillary supply (for using O2 to make ATP)
+
+c. resist fatigue, good for low intensity endurance activity d. postural muscles in back and lower limbs have lots 2. white fast twitch (a.k.a. fast glycolytic) a. large
+
+b. contract quickly, with lots of power (use ATP at a fast rate) c. fewer oxygen use components (generate most ATP anaerobically - without O2) d. fatigue quickly, good for high intensity activity e. lots in arms for lifting
+
+3. intermediate fast twitch (a.k.a. fast oxidative) a. medium sized
+
+b. contract quickly, with lots of power (like white fast twitch) c. have component for making ATP with oxygen (like red slow twitch) d. fatigue resistant, good for intermediate activities e. muscles used for walking have lots
+
+4. each muscle has a mix of the three types, but has a greater proportion of the type used most often
+
+5. exercise can change fiber types
+
+a. endurance activities(e.g., running long distances): white fast twitch → intermediate fast twitch
+
+b. intense activities (e.g., weight lifting): intermediate fast twitch → white fast twitch c. changes occur in size of fiber, blood supply, number of mitochondria, etc.
+
+d. generally cannot convert between slow and fast fibers (depends on nerve supply)
+
+
+
+• Cardiac Muscle
+
+
+
+- 100 µm long, 15 µm diameter
+
+
+
+- Basically the same set-up of myofilaments, etc.
+
+
+
+- Cells connected by intercalated discs
+
+1. desmosomes and gap junctions
+
+2. cells contract as a unit
+
+
+
+- Main electrical stimulation from specialized cells that spontaneously activate (autorhythmicity)
+
+
+
+- Use oxygen to make ATP
+
+
+
+• Smooth Muscle
+
+
+
+- 30 - 200 µm long, 2 - 10 µm diameter at middle
+
+
+
+- Arranged in sheets
+
+
+
+- Has thick and thin filaments, but not in the same pattern as other muscle types
+
+
+
+- Two basic types
+
+1. multiunit
+
+a. groups of cells function independently
+
+b. innervated by autonomic (involuntary) nervous system c. found in large blood vessels, large airways, eye (for adjusting lens and iris), arrector pili 2. single unit (visceral)
+
+a. cells electrically linked by gap junctions and contract as a unit b. clusters of cells are self-excitable
+
+1) pass electrical signal to other cells
+
+2) also influenced by ANS
+
+c. most smooth muscle in the body is this type (hollow organs) d. uses oxygen to make ATP
+
+e. can be influenced by local metabolic changes or hormones 20
+
+Chapter 11
+
+
+
+
+
+Muscles
+
+
+• Lever Systems
+
+
+
+- A lever is a rigid bar that moves on a fixed point (the fulcrum) when a force is applied to it; the force (effort) applied is used to move a resistance (load) 1. bones = levers
+
+2. joints = fulcrum
+
+3. muscles provide the effort
+
+
+
+
+
+- Levers operate in one of two ways
+
+1. mechanical advantage
+
+a. load is closer to fulcrum, effort farther from fulcrum b. little effort moves a large load over a small distance 2. mechanical disadvantage
+
+a. load is farther from fulcrum, effort is closer to fulcrum b. lots of effort moves a load rapidly over a large distance
+
+
+
+
+
+- Types of levers
+
+1. first-class
+
+a. fulcrum between load and effort
+
+b. seesaws, scissors, lifting head off chest
+
+c. can be mechanical advantage or disadvantage 2. second-class levers
+
+a. load between fulcrum and effort
+
+b. wheelbarrow, standing on toes
+
+c. mechanical advantage
+
+3. third-class levers (most muscles in the body are set up this way) a. effort between load and fulcrum
+
+b. tweezers, lifting using biceps
+
+c. mechanical disadvantage
+
+
+
+• Arrangement of Fascicles
+
+
+
+- Influences range of motion and power
+
+1. longer fibers can shorten more and have greater range of motion 2. a greater number of shorter fibers means more power
+
+
+
+
+
+- Types of arrangements
+
+
+
+
+
+1. parallel (tend to be less powerful)
+
+
+
+
+
+2. fusiform (nearly parallel)
+
+
+
+
+
+3. circular
+
+
+
+
+
+4. convergent
+
+
+
+
+
+5. pennate (tend to be the most powerful)
+
+
+
+• Group Actions
+
+
+
+- Functional types of muscles
+
+1. prime mover/agonist: the muscle that has the main responsibility for a particular movement 2. antagonist: opposes the action of the agonist 3. synergist: helps the agonist
+
+a. add extra force
+
+b. stabilize joint and prevent undesired movement 4. fixator: stabilizes prime mover
+
+
+
+
+
+- One muscle may act as any of the functional types 21
+
+• Origin and Insertion
+
+
+
+- Origin: the attachment point on the more stationary (less movable) bone, usually proximal
+
+
+
+- Insertion: the attachment point on the more movable bone, usually distal
+
+
+
+- The insertion moves toward the origin when the muscle shortens
+
+
+
+• Naming Muscles
+
+
+
+- Names may be based on...
+
+1. location
+
+2. shape
+
+3. relative size
+
+4. direction of fascicles and fibers
+
+5. location of attachments
+
+6. number of origins
+
+7. action
+
+
+
+• Selected Skeletal Muscles (see handouts)
+
+
+
+
+
+22
+
+Chapter 12
+
+
+
+
+
+Nervous Tissue
+
+
+• Organization of the Nervous System
+
+
+
+- Central nervous system (CNS)
+
+1. brain and spinal cord
+
+a. integrating and command center
+
+
+
+- Peripheral nervous system (PNS)
+
+1. cranial nerves
+
+a. carry electrical signals to and from brain 2. spinal nerves
+
+a. carry electrical signals to and from the spinal cord 3. two main functional divisions
+
+a. sensory (afferent) division
+
+1) carries signals toward CNS, from skin, muscles and joints (somatic), and from visceral organs (visceral)
+
+b. motor (efferent) division
+
+1) carries signals away from CNS to effector organs 2) somatic division (to skeletal muscle, voluntary control) 3) autonomic division (to smooth and cardiac muscle, glands; involuntary control; further divided into sympathetic division ("fight or flight") and parasympathetic division ("resting and digesting")
+
+
+
+• Histology
+
+
+
+- Nervous tissue made up of...
+
+1. neurons
+
+a. cells that receive and transmit electrical signals 2. neuroglia (glial cells)
+
+a. supporting cells of CNS and PNS
+
+
+
+
+
+- Neuroglia
+
+1. in CNS
+
+a. astrocytes
+
+1) hold neurons together
+
+2) repair of injury and scar formation
+
+3) induce changes in blood vessels to form the blood-brain barrier hold neurons together 4) take up and break down some neurotransmitters (chemical signal molecules) 5) maintain ion concentrations
+
+b. microglia
+
+1) defense cells
+
+c. ependymal cells
+
+1) line cavities in brain and spinal cord
+
+2) help form and circulate cerebrospinal fluid d. oligodendrocytes send out extensions that wrap neurons, forming myelin sheaths 2. in PNS
+
+a. Schwann cells make myelin sheaths
+
+b. satellite cells support clusters of neuron cell bodies (in ganglia)
+
+
+
+
+
+- Neurons (nerve cells)
+
+1. highly specialized to conduct electrical signals 2. can vary in structure but all have some common features 3. common features
+
+a. cell body (soma)
+
+1) nucleus and other organelles
+
+2) well developed rough ER
+
+3) plasma membrane has receptors for neurotransmitters (receives chemical signals) 4) clusters in CNS called nuclei, in PNS called ganglia 23
+
+b. dendrites
+
+1) relatively short, highly branched projections from cell body 2) plasma membrane has receptors for neurotransmitters (receives chemical signals) 3) conducts electrical signals toward cell body c. axon (nerve fiber)
+
+1) one long projection from cell body, begins at axon hillock 2) may be up to a few feet long
+
+3) may have branches called collaterals
+
+4) ends in many branches called axon terminals 5) carries electrical signals away from the cell body (signal called depolarization or action potential or nerve impulse)
+
+6) when AP reaches terminals, neurotransmitters are released d. myelin sheath
+
+1) many neurons have their axons covered in myelin sheaths (helps conduct electrical signals faster)
+
+
+
+4. connect to other neurons at synapses
+
+
+
+• Bundles of Axons
+
+
+
+- Called a nerve in PNS
+
+1. wrapped in CT coverings (as in skeletal muscle) a. endoneurium wraps each fiber
+
+b. perineurium wraps groups of axons called fascicles c. epineurium wraps entire nerve
+
+
+
+
+
+- Called a tract in CNS
+
+
+
+• Structural classification of neurons
+
+
+
+- Multipolar neurons
+
+1. many dendrites, one axon
+
+2. most neurons of the brain and spinal cord
+
+
+
+
+
+- Bipolar neurons
+
+1. one dendrite, one axon
+
+2. in retina of eye, inner ear, olfactory (smell) neurons
+
+
+
+
+
+- Unipolar neurons
+
+1. one short process from cell body branches into two processes a. sensory neurons
+
+b. peripheral process has sensory receptor
+
+2. central process enters CNS
+
+
+
+• Functional Classification of Neurons
+
+
+
+- Sensory (afferent) neurons
+
+1. conduct signals toward CNS from skin, sensory organs, muscles, joints, viscera 2. unipolar
+
+3. cell bodies in ganglia
+
+
+
+
+
+- Motor (efferent) neurons
+
+1. conduct signals away from CNS to muscles and glands 2. multipolar
+
+3. cell bodies usually in CNS
+
+
+
+
+
+24
+
+
+
+- Association neurons (interneurons)
+
+1. between sensory and motor neurons, and throughout brain 2. multipolar
+
+3. contained entirely within CNS
+
+4. about 99% of neurons in the body
+
+5. thousands of types
+
+
+
+• Gray matter and white matter of CNS
+
+
+
+- Gray matter
+
+1. nerve cell bodies and dendrites
+
+2. axon terminals
+
+3. unmyelinated axons
+
+4. neuroglia
+
+
+
+
+
+- White matter
+
+1. bundles of myelinated axons
+
+
+
+25
+
+Chapter 13/14
+
+
+
+
+
+The Brain and Cranial Nerves
+
+
+• Major Parts of the Brain
+
+
+
+- Cerebrum
+
+1. two cerebral hemispheres
+
+
+
+
+
+- Diencephalon
+
+1. thalamus
+
+2. hypothalamus
+
+3. epithalamus
+
+
+
+
+
+- Brain stem
+
+1. midbrain
+
+2. pons
+
+3. medulla oblongata
+
+
+
+
+
+- Cerebellum
+
+1. two cerebellar hemispheres
+
+
+
+• Protection and Coverings
+
+
+
+- Cranial meninges
+
+1. continuous with the spinal meninges, same basic parts a. dura mater
+
+1) tough outer layer
+
+2) dense irregular CT
+
+b. arachnoid mater
+
+1) middle layer
+
+2) collagen and elastin fibers
+
+3) subdural space is between dura mater and arachnoid mater, contains a little fluid c. pia mater
+
+1) inner layer
+
+2) delicate CT covering brain
+
+3) subarachnoid space is between arachnoid mater and pia mater, contains cerebrospinal fluid
+
+
+
+2. dura mater has 2 layers in cranial meninges a. periosteal layer (outer)
+
+1) periosteum of cranial bones
+
+b. meningeal layer (inner)
+
+1) corresponds to spinal dura mater
+
+c. between layers are dural sinuses
+
+d. extensions of dura mater separate parts of the brain 1) falx cerebri- between cerebral hemispheres 2) falx cerebelli- between cerebellar hemispheres 3) tentorium cerebelli- between cerebrum and cerebellum
+
+
+
+
+
+- Cerebrospinal fluid (CSF)
+
+1. similar to plasma
+
+2. circulates through subarachnoid space
+
+3. functions
+
+a. cushions CNS
+
+d. maintained at optimal chemical levels (ions, nutrients, etc.) 4. the ventricles are cavities within the brain that contain CSF
+
+a. all ventricles are interconnected to one another, the subarachnoid space, and the central canal of the spinal cord
+
+b. lined with ependymal cells
+
+
+
+26
+
+c. four ventricles
+
+1) two lateral- each within a cerebral hemisphere, separated by a thin membrane called septum pellucidum
+
+2) third ventricle- between the lateral ventricles, connected to lateral ventricles by interventricular foramina
+
+3) fourth ventricle- between brain stem and cerebellum, connected to third ventricle by cerebral aqueduct
+
+5. CSF formed at choroid plexuses
+
+a. capillaries covered by ependymal cells, in all ventricles 6. CSF reabsorbed into venous circulation
+
+a. through arachnoid villi (extensions of arachnoid mater projecting into dural sinuses) 7. circulation of CSF
+
+
+
+
+
+- Blood-brain barrier
+
+1. brain capillary cells are joined by tight junctions 2. only things that can get through the lipid bilayer of capillary cells can pass easily (e.g., O2, CO2), and some things are specially transported (glucose, amino acids) 3. protects brain from harmful substances
+
+
+
+• Cerebrum
+
+- Gyri are the ridges
+
+
+
+- Sulci are the grooves (deepest grooves called fissures)
+
+
+
+
+
+- Paired lobes (frontal, parietal, temporal, occipital)
+
+
+
+
+
+- Made up of...
+
+1. gray matter (cortex)
+
+a. allows us to perceive, understand, communicate, remember, do voluntary movements b. divided into many "functional areas" (but there is lots of overlap, and no one area acts alone)
+
+c. three major kinds of functional areas
+
+1) motor areas- control voluntary motor function 2) sensory areas- conscious awareness of sensation 3) association areas- integrate diverse information d. each hemisphere specializes in functions on the opposite side of the body (contralateral) e. hemispheres not equal in function
+
+1) left side generally more involved in logical, analytical tasks like language and math 2) right side generally more involved in spatial perception, art, music 2. white matter
+
+a. provides for communication between all areas of CNS and PNS
+
+b. three main types of fibers
+
+1) association fibers- transmit signals between gyri in the same hemisphere 2) commissural fibers- transmit signals from gyri in one hemisphere to the corresponding gyri in the other hemisphere (corpus callosum, anterior and posterior commissures) 3) projection fibers- form ascending and descending tracts, transmit signals from cerebrum and other parts of brain to and from spinal cord 3. basal nuclei (basal ganglia)
+
+a. groups of gray matter embedded in white matter b. corpus striatum (caudate nucleus and lentiform nucleus, which consists of putamen and globus pallidus)
+
+c. amygdala (functionally part of limbic system) d. mostly important in motor pathways (communicate with cortex) 27
+
+• Diencephalon
+
+
+
+- Epithalamus
+
+1. pineal gland
+
+a. part of endocrine system
+
+b. produced melatonin, which helps regulate the biological clock
+
+
+
+
+
+- Thalamus
+
+1. masses of gray matter and tracts of white matter a. two sides connected by intermediate mass
+
+2. made up of several nuclei, each with a functional specialty 3. major functions
+
+a. preliminary processing of sensory input - screens out unimportant stimuli and passes on significant input to the appropriate area of cortex b. crude awareness of sensation
+
+c. some degree of consciousness
+
+
+
+
+
+- Hypothalamus
+
+1. many functionally grouped nuclei
+
+2. integrating center for homeostasis, links the ANS and endocrine system a. regulates body temperature (monitors temperature of blood) b. regulates water balance through urine output and has "thirst center" (contains osmoreceptors that sense concentration of body fluids) c. regulates food intake (monitors blood levels of nutrients and hormones) d. controls endocrine functioning (produces hormones, regulates pituitary) e. plays a role in emotional and behavioral patterns (part of limbic system) f. controls ANS centers in brain stem (cardiovascular, respiratory) g. contains biological clock
+
+3. pituitary connected by infundibulum
+
+a. pituitary has two lobes
+
+1) anterior lobe is glandular tissue, produces and secretes hormones in response to hormones released from the hypothalamus
+
+2) posterior lobe is nervous tissue, stores hormones produced by the hypothalamus and releases them in response to electrical signals from hypothalamus
+
+
+
+• Brain Stem
+
+
+
+- Midbrain
+
+1. cerebral peduncles- motor and sensory fiber tracts 2. superior cerebellar peduncles- carry info from cerebellum toward cortex 3. reflex centers
+
+a. superior colliculi- visual reflexes, like eyes tracking an object b. inferior colliculi- auditory reflexes, like turning toward a loud noise 4. other nuclei
+
+a. substantia nigra and red nucleus- involved in motor pathways, interact with basal nuclei b. nuclei for cranial nerves III and IV
+
+5. periaqueductal gray matter- sympathetic responses like increased heart rate and blood pressure and pain suppression
+
+
+
+
+
+- Pons
+
+1. motor and sensory fiber tracts
+
+2. middle cerebellar peduncles- carry info from cortex to cerebellum 3. nuclei for cranial nerves V, VI and VII
+
+4. respiratory centers- smooth out inspirations and expirations 28
+
+
+
+- Medulla oblongata
+
+1. connects to spinal cord at foramen magnum
+
+2. motor and sensory fiber tracts
+
+3. pyramids - formed by pyramidal tracts, most fibers cross over here, "decussation of the pyramids"
+
+4. inferior cerebellar peduncles- carry info on equilibrium from vestibular nuclei and info on proprioception from spinal cord to cerebellum (olives are nuclei acting as relay stations) 5. nuclei for cranial nerves VIII-XII
+
+6. ANS nuclei
+
+a. cardiovascular centers- regulate rate and force of heartbeat, blood pressure b. respiratory center- regulates basic rhythm of respiration c. centers for vomiting, sneezing, coughing, hiccuping, swallowing
+
+
+
+• Functional Brain Areas
+
+
+
+- Reticular formation
+
+1. an area of gray and white matter running through the core of the brain stem 2. motor and sensory functions
+
+3. important in maintaining consciousness and overall alertness of cortex (reticular activating system, RAS)
+
+
+
+
+
+- Limbic System
+
+1. parts of cortex, basal nuclei, thalamus, hypothalamus 2. deals with all aspects of emotion and physical expression of emotion (e.g., anger, fear, crying, laughing, gestures)
+
+
+
+• Cerebellum
+
+
+
+- Consists of vermis and cerebellar hemispheres with lobes (anterior, posterior, flocculonodular)
+
+
+
+
+
+- Has gray and white matter (white matter forms "arbor vitae")
+
+
+
+
+
+- Cerebellar peduncles connect it to brain stem
+
+
+
+
+
+- Receives sensory information, especially from proprioceptors
+
+
+
+
+
+- Sends information to motor areas of brain
+
+1. coordinates movements
+
+2. adjusts posture to maintain equilibrium
+
+
+
+• Cranial Nerves
+
+
+
+- Mnemonic device- Oh, Oh, Oh, To Touch And Feel Very Good Velvet, AH
+
+
+
+
+
+1 I
+
+OLFACTORY
+
+
+
+2 II
+
+OPTIC
+
+
+
+3 III
+
+OCULOMOTOR
+
+
+
+4 IV
+
+TROCHLEAR
+
+
+
+5 V
+
+TRIGEMINAL
+
+
+
+6 VI
+
+ABDUCENS
+
+
+
+7 VII
+
+FACIAL
+
+
+
+8 VIII
+
+VESTIBULOCOCHLEAR
+
+
+
+9 IX
+
+GLOSSOPHARYNGEAL
+
+
+
+10 X
+
+VAGUS
+
+
+
+11 XI
+
+ACCESSORY
+
+
+
+12 XII
+
+HYPOGLOSSAL
+
+
+
+
+
+29
+
+Chapters 13/14
+
+The Spinal Cord and Spinal Nerves
+
+
+
+• Protection and coverings
+
+
+
+- Vertebral column
+
+1. the spinal cord is in a canal formed by the vertebral foramina 2. vertebral ligaments also protect
+
+
+
+- Fat in the epidural space between wall of vertebral canal and meninges
+
+- Meninges (spinal meninges), cover cord and spinal nerves until they exit vertebral column 1. Dura mater forms sac from foramen magnum to second sacral vertebra 2. extended thickened portions of pia mater called denticulate ligaments fuse with arachnoid mater and dura mater to hold cord in place laterally
+
+
+
+• External Anatomy
+
+
+
+- Extends from brain to second lumbar vertebra
+
+
+
+- Two thickened areas
+
+1. cervical enlargement
+
+a. nerves to and from upper limbs arise from this area 2. lumbar enlargement
+
+a. nerves to and from lower limbs arise from this area
+
+
+
+- Two grooves
+
+1. anterior median fissure
+
+2. posterior median sulcus
+
+
+
+- Conus medullaris
+
+1. end of cord tapers to a cone shape
+
+
+
+- Filum terminale
+
+1. extension of pia mater attaches cord to coccyx
+
+
+
+- Cauda equina
+
+1. some nerves exit the spinal cord and continue down the vertebral column to exit farther down
+
+
+
+- Dorsal and ventral roots fuse to form spinal nerves
+
+
+
+• Internal Anatomy
+
+
+
+- Gray matter
+
+1. has two sides, connected by gray commissure a. central canal is in center, extends the length of the spinal cord (contains CSF) b. anterior (ventral) horns - contain cell bodies of motor neurons supplying skeletal muscle c. posterior (dorsal) horns- contain cell bodies of interneurons, axon terminals of sensory neurons
+
+d. lateral horns- contain cell bodies for autonomic motor neurons which supply smooth/cardiac muscle and glands, only in thoracic, lumbar and sacral segments 2. function: receives and integrates incoming and outgoing signals
+
+
+
+
+
+- White matter
+
+1. anterior (ventral) white columns, posterior (dorsal) white columns, lateral white columns a. ascending (sensory) tracts- carry signals to brain b. descending (motor) tracts- carry signals away from brain 2. function: transmitting electrical signals 3. ascending tracts
+
+a. spinothalamic (anterior and lateral)
+
+1) carry info on pain, temperature, deep pressure, crude touch (poorly localized) b. posterior column tracts (fasciculus gracilis, fasciculus cuneatus) 1) carry info on proprioception (sense of body position, comes from muscles, tendons, joints), fine touch, pressure
+
+c. spinocerebellar tracts (anterior and posterior) 1) subconscious aspects of proprioception
+
+4. descending tracts
+
+a. corticospinal tracts (anterior and lateral, a.k.a. pyramidal tracts) 30
+
+1) precise voluntary movements b. all other tracts (tectospinal, vestibulospinal, rubrospinal, reticulospinal) 1) subconscious movement like posture
+
+
+
+• Reflexes (see ch 12)
+
+
+
+- Rapid, predictable motor response to a stimulus
+
+
+
+- Many are unlearned and involuntary
+
+1. all spinal reflexes are unlearned and involuntary a. integrating center is the spinal cord
+
+b. no brain involvement necessary, but brain is informed of what happened 2. learned (acquired) reflexes
+
+a. integrating center is brain
+
+b. e.g., typing, playing a sport, driving
+
+3. most reflexes can be modified with conscious effort
+
+
+
+- Reflex arcs
+
+1. receptor - receives stimulus
+
+2. sensory neuron - electrical signal travels to...
+
+3. integrating center - the part of the CNS that decides on response, brain stem or spinal cord for unlearned reflexes
+
+4. motor neuron - signal sent to...
+
+5. effector - the part of the body that responds (skeletal muscle or gland)
+
+
+
+• Spinal Nerves
+
+
+
+- 31 pairs
+
+1. named and numbered by where they exit the vertebral column a. 8 cervical (C1-C8, C1 exits between atlas and occipital bone) b. 12 thoracic (T1-T12)
+
+c. 5 lumbar (L1-L5)
+
+d. 5 sacral (S1-S5)
+
+e. 1 coccygeal (Co)
+
+2. all are "mixed" nerves, meaning they carry both sensory and motor info 3. after exiting the vertebral column, they branch into...
+
+a. dorsal rami, which serve the posterior body trunk b. ventral rami, which serve the rest of the trunk and limbs c. meningeal branch, which serves the meninges, vertebrae and blood vessels d. rami communicantes, which branch from thoracic ventral rami and contain ANS fibers 4. intercostal (thoracic) nerves serve the thorax and abdominal wall
+
+
+
+
+
+- Plexuses
+
+1. the ventral rami of all the spinal nerves (except thoracic) branch into networks a. cervical plexus (from C1-C4)
+
+1) mostly serves skin and muscles of head, neck, shoulders, upper chest 2) phrenic nerve serves diaphragm (for breathing) b. brachial plexus (from C5-T1)
+
+1) serves upper limbs
+
+c. lumbar plexus (from L1-L4)
+
+1) serves abdomen, lower limbs
+
+d. sacral plexus (from L4-S4)
+
+1) serves lower limbs
+
+
+
+• Dermatomes
+
+
+
+- A segment of skin served by cutaneous branches of a particular spinal nerve (all except C1)
+
+- Some areas overlap (trunk tends to have lots of overlap, less on limbs) 31
+
+Chapter 14
+
+
+
+
+
+General Senses
+
+
+• Basics
+
+
+
+- Sensation: conscious or subconscious awareness of internal or external stimuli
+
+
+
+
+
+- Perception: conscious awareness and interpretation of sensation
+
+
+
+
+
+- Components of sensation
+
+1. stimulus
+
+a. a change in the environment capable of activating sensory neurons 2. transduction
+
+a. sensory receptor or sense organ transduces stimulus into a nerve impulse 3. conduction
+
+a. nerve impulse conducted to CNS by afferent fibers 4. translation
+
+a. CNS receives and interprets information
+
+
+
+• Sensory Receptors
+
+
+
+- Display selectivity
+
+1. respond to a particular kind of stimulus
+
+
+
+
+
+- Classification by location
+
+1. exteroceptors
+
+a. near surface of body
+
+b. sense the external environment
+
+c. touch, pressure, vibration, temperature, pain, taste, smell, hearing, vision 2. interoceptors
+
+a. in blood vessels and viscera
+
+b. sense internal environment
+
+c. stretch, chemical change, pain
+
+3. proprioceptors
+
+a. in muscles, tendons, joints, inner ear
+
+b. sense body position and movement
+
+
+
+
+
+- Classification by stimulus type
+
+1. mechanoreceptors
+
+a. sense mechanical pressure or stretching
+
+b. touch, pressure, vibration, proprioception, hearing, blood pressure 2. thermoreceptors
+
+a. sense temperature
+
+3. chemoreceptors
+
+a. sense chemicals
+
+b. taste, smell, changes in body fluids
+
+4. photoreceptors
+
+a. sense light
+
+5. nociceptors
+
+a. sense pain
+
+
+
+
+
+32
+
+
+
+- Structural classification
+
+1. free dendritic endings
+
+a. mostly sense pain and temperature, itch
+
+b. tactile discs are a modified type in the epidermis, sense light touch (adapt slowly) c. root hair plexuses sense movement of hairs (adapt quickly) 2. encapsulated dendritic endings are enclosed in a CT capsule a. tactile corpuscles - in dermal papillae of hairless skin; sense light pressure, discriminative touch, vibration
+
+b. lamellar corpuscles - mainly subcutaneous, some more internal; sense deep pressure, stretch, vibration (adapt quickly)
+
+c. bulbous corpuscles - deep skin layers, joint capsules; deep pressure and stretch (adapt slowly)
+
+d. proprioceptors - muscle spindles and tendon organs sense stretch; joint kinesthetic receptors in joint capsules sense stretch and pain (includes lamellar and bulbous corpuscles, tendon organs, free dendritic endings)
+
+
+
+• Sensory (Ascending) Pathways
+
+
+
+- Signals are carried to reticular formation, cortex, and cerebellum 1. first-order neurons
+
+a. have sensory receptor
+
+b. carry signals to brain stem (along cranial nerves) or to spinal cord (along spinal nerves) c. synapse with...
+
+
+
+2. second-order neurons
+
+a. carry signals from spinal cord and brain stem to thalamus b. fibers cross over (decussate) in cord or brain stem c. synapse with...
+
+
+
+3. third-order neurons
+
+a. signals go to primary somatosensory cortex (postcentral gyrus) 33
+
+Chapter 15
+
+
+
+
+
+The Autonomic Nervous System
+
+
+• Basics
+
+
+
+- Input
+
+1. general visceral sensory neurons
+
+a. e.g., chemoreceptors sensing blood gases, mechanoreceptors sensing organ stretch
+
+
+
+
+
+- Output
+
+1. general visceral motor neurons
+
+a. excite or inhibit their effectors (cardiac and smooth muscle, glands) 2. two neuron pathway from CNS to effector organ a. preganglionic fiber has cell body in CNS, synapses with postganglionic fiber in a ganglion, postganglionic fiber innervates effector organ b. sympathetic division
+
+1) preganglionic fibers originate in thoracic and lumbar regions of spinal cord 2) preganglionic fibers are short, synapse in a sympathetic chain ganglion lying along the vertebral column, release ACh (some pass through the chain and synapse later in a collateral ganglion closer to the effector organ) 3) postganglionic fibers are long, terminate on effector organ and release norepinephrine (NE)
+
+c. parasympathetic division
+
+1) preganglionic fibers originate in brain stem or sacral spinal cord 2) preganglionic fibers are long, synapse in terminal ganglia in or near effector organs, release ACh
+
+3) postganglionic fibers are short, end on the effector organ, release Ach
+
+
+
+
+
+- Dual innervation
+
+1. most visceral organs are innervated by both sympathetic and parasympathetic fibers 2. generally have opposite effects
+
+3. can be excitatory or inhibitory depending on the organ innervated 4. both systems are usually partially active
+
+a. sympathetic or parasympathetic tone, or tonic activity 5. when one division increases its rate of sending signals and the other decreases, it's called dominance
+
+a. sympathetic dominance
+
+1) increase in blood flow to skeletal muscles (vessels dilate) 2) heart beats faster and more forcefully
+
+3) blood pressure increases (most vessels constrict) 4) respiratory airways dilate
+
+5) stored nutrients are broken down
+
+6) digestive and urinary activities are inhibited 7) pupils dilate
+
+8) sweating
+
+b. parasympathetic dominance
+
+1) inhibits sympathetic activities (e.g., heart rate and blood pressure decrease) 2) normal resting functions like digestive and urinary activities increase
+
+
+
+• Details of Autonomic Anatomy
+
+
+
+- rami communicantes
+
+1. white rami
+
+a. branch from thoracic and first few lumbar nerves b. contain sympathetic preganglionic fibers
+
+2. gray rami
+
+a. branch from sympathetic chain ganglia back to a nerve b. contain sympathetic postganglionic fibers
+
+
+
+
+
+34
+
+
+
+- autonomic plexuses
+
+1. groupings of ANS fibers in thorax, abdomen and pelvis 2. contain sympathetic and parasympathetic fibers 3. pass along large blood vessels, supplying the vessels with fibers, then on to visceral organs 4. four major ANS plexuses
+
+a. cardiac plexus
+
+c. pulmonary plexus
+
+d. celiac (solar) plexus
+
+e. hypogastric plexus
+
+
+
+• Autonomic Reflexes
+
+
+
+- Electrical signals travel through autonomic pathways (autonomic reflex arc) 1. e.g., adjustments made in heart rate and force of contraction, blood pressure, respiration, digestion, defecation, urination, pupil size changes
+
+
+
+• Control of ANS
+
+
+
+- mainly by hypothalamus
+
+1. sends signals to ANS centers in brain stem
+
+
+
+
+
+- cortex can influence hypothalamus as a part of limbic system (some degree of voluntary control)
+
+
+
+• Adrenal Medulla
+
+
+
+- center portion of adrenal gland is a modified part of sympathetic division 1. preganglionic sympathetic fibers innervate adrenal medulla a. electrical signals result in release of epinephrine and norepinephrine to bloodstream (enhances sympathetic effects)
+
+
+
+
+
+35
+
+Chapter 16
+
+
+
+
+
+Special Senses
+
+
+• Olfactory Sensations: Smell
+
+
+
+- Types of cells
+
+1. receptors lie in nasal epithelium of superior portion of nasal cavity a. bipolar neurons
+
+1) distal end is a dendrite with olfactory cilia (hairs), which generate impulses in response to odor molecules
+
+2) axon synapses with another neuron in the olfactory bulb 2. supporting cells
+
+a. columnar epithelial cells, secrete mucus
+
+3. basal cells
+
+a. between supporting cells
+
+b. stem cells that replace old receptor cells about every month 4. olfactory glands
+
+a. produce mucus that empties onto the olfactory epithelium by ducts (odor molecules must dissolve in mucus to be sensed)
+
+
+
+
+
+- Olfactory pathway
+
+1. olfactory bulb neurons receive signals from receptors a. sends signals along olfactory tract to olfactory area on medial surface of temporal lobe, limbic system and part of frontal lobe
+
+
+
+• Gustatory Sensations: Taste
+
+
+
+- Taste buds
+
+1. mostly on tongue, some on soft palate, cheeks and pharynx 2. in papillae (elevations on tongue)
+
+a. vallate papillae are on back of tongue
+
+b. fungiform papillae are scattered over tongue surface c. filiform papillae cover the surface of the tongue but do not have taste buds 3. three kinds of epithelial cells
+
+a. gustatory cells are the receptor cells (have microvilli with receptors, substance to be tasted must be dissolved in saliva in a taste pore); they synapse with sensory nerve fibers b. supporting cells
+
+c. basal cells, which can differentiate into other cell types 4. five primary taste sensations
+
+a. sweet, sour, salty, bitter, savory
+
+b. tongue maps no longer believed accurate, an individual receptor may respond to more than one kind of taste
+
+
+
+
+
+- Gustatory pathways
+
+1. fibers leading from taste buds are in...
+
+a. facial nerves (from anterior 2/3 of tongue) b. glossopharyngeal nerves (from posterior 1/3) c. vagus (from throat and epiglottis)
+
+d. The three cranial nerves end in the medulla, from there fibers project to gustatory area in parietal lobe via the thalamus
+
+
+
+• Visual Sensations and the Eye
+
+
+
+- Accessory structures of the eye
+
+1. eyebrows
+
+a. shade eyes from sunlight, protect from perspiration 2. eyelashes
+
+a. protective, when disturbed trigger reflex blinking 3. eyelids (palpebrae)
+
+a. upper and lower lids separated by palpebral fissure, they meet at medial and lateral canthi 36
+
+(medial canthus contains lacrimal caruncle with sebaceous and sweat glands) b. tarsal plates - fold of connective tissue that supports lids, contains tarsal glands that produce an oily secretion to lubricate lids and prevent sticking together 4. conjuctiva
+
+a. stratified columnar mucous membrane lubricates eye with mucus, has palpebral and ocular layer
+
+5. lacrimal apparatus
+
+a. lacrimal glands secrete lacrimal fluid (tears) b. blinking spreads tears to lacrimal canals, which drain to lacrimal sac and nasolacrimal duct, and empties into nasal cavity
+
+c. tears clean, protect and lubricate (contain mucus, antibodies, lysozyme) 6. extrinsic eye muscles
+
+a. allow movement
+
+b. origins are in bones of orbit, insert into outer surface of eyeball
+
+
+
+
+
+- Eyeball structure
+
+1. fibrous tunic
+
+a. outer part of eye wall
+
+b. dense CT, mostly collagen fibers
+
+1) sclera - opaque, white; protects and shapes the eye, muscles insert 2) cornea - transparent; allows light to enter the eye and bends light; covered by epithelium (outer surface is a protective stratified squamous, inner surface simple squamous)
+
+2. vascular tunic
+
+a. middle layer
+
+b. choroid
+
+1) nourishes the tunics (has blood vessels)
+
+2) contains melanin that absorbs light and prevents scattering c. ciliary body
+
+1) connects with choroid and retina at ora serrata 2) mostly smooth muscle that controls shape of lens 3) ciliary processes secrete fluid called the aqueous humor d. suspensory ligament (a.k.a. ciliary zonule) 1) extends from ciliary body to lens
+
+e. iris
+
+1) colored portion of eye, continuous with ciliary body posteriorly 2) pupil is the opening
+
+3) made up of smooth muscle
+
+
+
+3. sensory tunic (retina)
+
+a. pigmented layer prevents reflection and scattering of light within the eye (melanocytes) b. neural layer contains photoreceptors
+
+1) rods - used in dim light, allow us to perceive shades of gray, shapes, movement 2) cones - used in bright light, different types allow us to perceive color and have sharp vision (red, green, blue)
+
+3) macula lutea contains mostly cones, and in the center of it is the fovea centralis which has only cones (sharpest vision when light hits here) 4) optic disc is where the optic nerve exits the eye, called the blind spot because it has no photoreceptors
+
+
+
+4. lens
+
+a. transparent fibrous proteins covered by simple cuboidal epithelium b. changes shape to allow focusing of light on retina 37
+
+5. internal chambers and fluids a. anterior segment
+
+1) filled with aqueous humor secreted by ciliary processes (drains into scleral venous sinus)
+
+2) nourishes lens and cornea, maintains shape of eye b. posterior segment
+
+1) contains vitreous humor, a gel that maintains pressure in the eye and holds the retina in place
+
+
+
+
+
+- Visual pathway
+
+1. light hits rods and cones, which send signals to bipolar cells, then ganglion cells 2. signal travels along optic nerve to thalamus, synapses with neurons to visual cortex in the occipital lobes; also goes to nuclei in midbrain which mediate pupillary light reflexes and control extrinsic eye muscles, biological clock
+
+
+
+• Auditory Sensations and the Ear
+
+
+
+- External ear
+
+1. auricle (a.k.a. pinna)
+
+a. elastic cartilage covered with skin
+
+b. directs sound into ear
+
+2. external auditory canal (meatus)
+
+a. cartilage and temporal bone
+
+b. lined with skin
+
+1) hairs, sebaceous glands, ceruminous glands (produce cerumin, a.k.a. wax, that is sticky and traps potentially dangerous material) 3. tympanic membrane
+
+a. thin CT membrane with skin on outer surface and mucosa on internal surface b. vibrates when hit by sound waves, transferring vibrations to the bones of the middle ear
+
+
+
+
+
+- Middle ear
+
+1. lined with mucosa and filled with air
+
+2. medial end has oval window and round window 3. pharyngotympanic tube connects to pharynx (allows air pressure to equalize to tympanic membrane can vibrate freely
+
+4. ossicles are the bones that transmit vibration to the inner ear a. malleus, incus, stapes
+
+
+
+
+
+- Inner ear
+
+1. the bony labyrinth is a cavity in the bone, filled with fluid (perilymph) that conducts vibrations 2. the membranous labyrinth is a series of interconnecting sacs and ducts floating in the perilymph (contains endolymph that conducts vibrations) 3. the cochlea contains the structures for hearing a. when sound waves strike the tympanic membrane vibration is transmitted through the ossicles to the fluid in the cochlea
+
+b. the structures inside vibrate and hair cells are stimulated, resulting in nerve impulses being sent along the cochlear branch of the vestibulocochlear nerve, to the medulla where most fibers cross over, to thalamus where they synapse with fibers heading to primary auditory cortex on the temporal lobe
+
+5. vestibular apparatus contains the structures for equilibrium a. vestibule contains sacs called saccule and utricle 1) each contains a macula which senses static equilibrium (head position) and linear acceleration
+
+b. semicircular canals contain cristae which sense rotational acceleration c. when hair cells are stimulated by changes in body position or movement, they send signals along the vestibular branch of the vestibulocochlear nerve, to the vestibular nuclei in the medulla, then on to nuclei that control eye/head/neck movements and to cerebellum 38
+
+Chapter 18
+
+
+
+
+
+Blood
+
+
+• Blood Basics
+
+
+
+- about 5 liters, about 8% of body weight
+
+
+
+
+
+- pH ranges 7.35 - 7.45
+
+
+
+
+
+- Is a connective tissue
+
+1. formed elements
+
+a. erythrocytes (RBCs)
+
+b. leukocytes (WBCs)
+
+c. platelets
+
+2. matrix is plasma
+
+
+
+
+
+- Functions
+
+1. transport of O2, CO2, nutrients, wastes, heat, hormones 2. protection, from WBCs and other defenses
+
+
+
+• Plasma
+
+
+
+- 55% of whole blood
+
+
+
+
+
+- 90% water
+
+
+
+
+
+- Contains proteins, ions, buffers, respiratory gases, nutrients, wastes, hormones
+
+
+
+
+
+- Proteins are functionally important
+
+1. establish osmotic pressure (holds water)
+
+2. three main types
+
+a. albumins- bind substances for transport
+
+b. globulins- bind substances for transport, blood clotting, inactive precursor molecules, antibodies
+
+c. fibrinogen- blood clotting
+
+
+
+• Formation of Blood Cells (Hematopoiesis)
+
+
+
+- Occurs in red marrow
+
+
+
+• Erythrocytes
+
+
+
+- About 45% of whole blood
+
+
+
+
+
+- Very small, about 8 µm in diameter, can squeeze through even smaller capillaries
+
+
+
+
+
+- About 5 million/mm3
+
+
+
+
+
+- Mature cells have no nucleus or other organelles
+
+
+
+
+
+- Make ATP anaerobically
+
+
+
+
+
+- Live about 120 days, most die in spleen capillaries
+
+
+
+
+
+- Contain hemoglobin
+
+1. carries most of the oxygen
+
+2. carries some carbon dioxide
+
+3. helps buffer blood
+
+
+
+
+
+39
+
+
+
+- Erythropoiesis (production of RBCs)
+
+1. controlled by hormone erythropoietin, which is released from the kidneys in response to low oxygen levels
+
+
+
+
+
+- Blood types
+
+1. based on certain proteins (antigens) found on RBC surface a. 100+ kinds of antigens
+
+b. ABO and Rh most important
+
+
+
+• Platelets
+
+
+
+- Cell fragments (no nucleus, but do have organelles)
+
+
+
+- Live about 10 days
+
+
+
+- 250,000 - 400,000/mm3
+
+
+
+- Can be stored in spleen
+
+
+
+- Important in stopping blood flow through damaged vessels (hemostasis)
+
+
+
+• Leukocytes
+
+
+
+- Less than 1% of whole blood
+
+
+
+- May live a few hours or last a lifetime
+
+
+
+- Usually larger than RBCs, range from 6 – 20 µm in diameter
+
+
+
+- 5000 - 10,000/mm3
+
+
+
+- Present in blood and tissues
+
+
+
+- Able to move from blood → tissues
+
+1. sense chemicals released from damaged tissues and move by chemotaxis
+
+
+
+
+
+- Granulocytes
+
+1. contain visible granules in cytoplasm (colors due to staining) 2. three kinds
+
+a. neutrophils
+
+1) function: active phagocytes of bacteria
+
+2) granules contain lysosomal enzymes and "antibiotics"
+
+3) most common of WBCs, about 60 - 70% of total b. eosinophils
+
+1) function: kill parasites, active in ending allergic responses 2) granules contain digestive enzymes
+
+3) 1 - 4% of all WBCs
+
+c. basophils
+
+1) function: inflammatory response
+
+2) granules contain histamine, which acts as a vasodilator and attracts other WBCs 3) .5% of all WBCs
+
+
+
+
+
+- Agranulocytes
+
+1. no visible granules
+
+2. two major kinds
+
+a. lymphocytes
+
+1) function: immune responses
+
+2) second most common of all WBCs, about 25% of total 3) often similar in size to RBCs
+
+b. monocytes
+
+1) function: become active macrophages in tissues 2) 4 - 8% of all WBCs
+
+3) very large, may look like big blobs
+
+
+
+
+
+40
+
+Chapter 19
+
+
+
+
+
+The Heart
+
+
+• Basics
+
+
+
+- Found in mediastinum
+
+
+
+
+
+- Enclosed in pericardium
+
+1. fibrous pericardium
+
+a. attached to diaphragm, fused to vessels going to/from heart b. dense irregular CT
+
+c. protects heart, attaches it to surrounding structures, prevents over-filling 2. serous pericardium
+
+a. parietal layer lines inside of fibrous pericardium b. visceral layer (epicardium)
+
+c. both layers are simple squamous epithelium and areolar CT
+
+d. pericardial cavity lies between layers and contains serous fluid (a.k.a. pericardial fluid) which decreases friction for the beating heart
+
+
+
+
+
+-Cardiac muscle cells
+
+1. lots of mitochondria, uses oxygen to make ATP
+
+2. contraction triggered by electrical signals a. signal spreads to all cells and heart contracts as a unit b. some cells are autorhythmic (they generate their own electrical activity), but can also be influenced by ANS
+
+
+
+
+
+- Layers of the heart
+
+1. epicardium
+
+2. myocardium
+
+a. mostly cardiac muscle
+
+b. fibrous skeleton
+
+1) dense CT fibers that reinforce myocardium and support valves 2) limits spread of electrical activity
+
+3. endocardium
+
+a. endothelium (simple squamous epith/areolar CT) b. lines chambers, covers valves
+
+c. continuous with lining of blood vessels
+
+
+
+• Anatomy of Heart
+
+
+
+- Know all structures from figs. 19.5bde
+
+
+
+• Pathway of blood through the heart
+
+
+
+- Pulmonary circuit
+
+1. heart to lungs and back
+
+2. gas exchange occurs in lungs (picks up O2, drops off CO2) 3. right side of heart is pump
+
+4. short distance, low pressure circulation
+
+
+
+
+
+- Systemic circuit
+
+1. heart to body tissues and back
+
+2. gas exchange at tissues (drops off O2, picks up CO2) 3. left side of heart is pump
+
+4. long distance, high resistance pathway
+
+
+
+• Heart Valves
+
+
+
+- Keep blood flowing in one direction only
+
+
+
+
+
+41
+
+
+
+- Atrioventricular valves
+
+1. CT covered with endothelium
+
+2. attached to chordae tendinae (collagen cords) which attach to...
+
+3. papillary muscles
+
+a. anchor valves, prevent opening backwards
+
+
+
+
+
+- Semilunar valves
+
+1. CT covered with endothelium
+
+2. shaped like cups so won't open backwards
+
+
+
+• Coronary Circulation
+
+
+
+- Heart receives its blood supply from right and left coronary arteries 1. branches from ascending aorta
+
+2. capillaries bring blood to tissues
+
+3. veins carry blood back to the circulation via coronary sinus, which empties into right atrium
+
+
+
+
+
+- Most blood delivered to heart when ventricles are relaxed
+
+
+
+• Intrinsic Conduction System
+
+
+
+- Sets basic rhythm of heart beats
+
+
+
+
+
+- Autorhythmic cells
+
+1. noncontractile
+
+2. specialized to initiate and distribute electrical signals
+
+
+
+
+
+- Located in...
+
+1. sinoatrial (SA) node (the pacemaker)
+
+2. atrioventricular (AV) node
+
+3. atrioventricular bundle (AV bundle)
+
+4. right and left bundle branches
+
+5. Purkinje fibers (subendocardial conducting network)
+
+
+
+• Extrinsic Innervation
+
+
+
+- Modifies basic rhythm as needed
+
+
+
+
+
+- ANS
+
+1. sympathetic division increases rate and force 2. parasympathetic slows rate
+
+
+
+• Cardiac cycle
+
+
+
+- All the events associated with blood flow during one complete heartbeat
+
+
+
+
+
+- Systole is contraction phase
+
+
+
+
+
+- Diastole is relaxation phase
+
+
+
+• Heart sounds
+
+
+
+- Described as lub-dup
+
+
+
+
+
+- Caused by blood turbulence when valves close 1. "lub" - closing of AV valves
+
+2. "dup" - closing of semilunar valves 42
+
+Chapter 20
+
+
+
+
+
+Blood Vessels
+
+
+• General Pattern
+
+
+
+- heart → arteries → arterioles → capillaries → venules → veins → heart
+
+
+
+• Basic Structure
+
+
+
+- Three tunics surrounding a lumen
+
+1. tunica intima
+
+a. endothelium- slick surface reduces friction b. basement membrane
+
+c. elastic lamina
+
+2. tunica media
+
+a. smooth muscle and elastin sheets
+
+b. regulates circulation by vasoconstriction or vasodilation 3. tunica externa
+
+a. collagen and elastin fibers protect vessel and anchor it to other structures b. larger vessels have their own blood vessels to supply outer tissues (called vasa vasorum)
+
+
+
+• Arteries
+
+
+
+- Carry blood away from heart
+
+
+
+
+
+- Withstand high pressure
+
+
+
+
+
+- Three groups
+
+1. elastic arteries (conducting)
+
+a. aorta and major branches
+
+b. large (1 - 2.5 cm in diameter)
+
+c. lots of elastin allows expansion and recoil (recoil keeps blood moving between heartbeats) 2. muscular arteries
+
+a. deliver blood to specific body organs
+
+b. .3 mm – 1 cm in diameter
+
+c. more smooth muscle, less elastin
+
+d. active in vasoconstriction
+
+3. arterioles
+
+a. 10 µm - .3 mm in diameter
+
+b. larger ones have all three tunics
+
+c. smaller ones are just smooth muscle surrounding endothelium
+
+
+
+
+
+- Anastomoses
+
+1. most tissues receive blood from more than one artery 2. anastomoses are branches between arteries
+
+3. also occur between veins
+
+4. called collateral circulation (allows alternate pathways for blood flow)
+
+
+
+• Capillaries
+
+
+
+- Smallest vessels, 3 – 10 µm in diameter
+
+
+
+
+
+- Thin tunica intima only
+
+
+
+
+
+- Allow exchanges between blood and tissues
+
+
+
+
+
+- Near almost all cells (epithelial sheets, cartilage, some parts of eye have none)
+
+
+
+
+
+- Varying distribution based on need
+
+1. e.g., muscles, liver, kidneys, lungs, and nervous system have lots 43
+
+
+
+- Types
+
+1. continuous
+
+a. tight junctions
+
+b. small gaps called intercellular clefts allow fluids and small solutes to pass c. most common type
+
+2. fenestrated
+
+a. some cells have "windows" covered with a thin membrane b. greater permeability to fluids and solutes c. found where absorption or filtration needed (small intestine, endocrine glands, kidney) 3. sinusoidal
+
+a. very "leaky" with fenestrations and large intercellular clefts b. allows relatively large molecules to pass
+
+c. found in liver, bone marrow, lymphoid tissues, some endocrine glands
+
+
+
+
+
+- Capillary beds
+
+1. network of capillaries that feeds tissues
+
+2. parts
+
+a. terminal arteriole feeds bed
+
+b. metarteriole
+
+c. true capillaries (have precapillary sphincters that regulate blood flow) d. thoroughfare channel
+
+e. postcapillary venule
+
+
+
+• Veins
+
+
+
+- Venules
+
+1. smallest are mostly endothelium (8 – 100 µm diameter) 2. larger ones have 3 tunics
+
+
+
+
+
+- Veins
+
+1. have 3 tunics
+
+2. lumens larger and walls thinner than corresponding arteries 3. not much smooth muscle or elastin
+
+4. valves
+
+a. folds of tunica intima
+
+b. prevent backflow due to gravity (mostly in limbs) 5. venous sinuses
+
+a. specialized, flattened veins with endothelium surrounded by dense CT
+
+b. receive blood draining from certain areas of body (e.g., brain, heart)
+
+
+
+• Circulatory Routes
+
+
+
+- The "vascular tree" is constructed so all organs get a fresh supply of blood
+
+
+
+
+
+- Systemic circulation
+
+1. all systemic arteries branch from the aorta a. elastic arteries are the aorta, brachiocephalic, common carotid, subclavian, vertebral, common iliac
+
+b. all other named arteries are muscular
+
+2. all systemic veins drain into one of the following: a. superior vena cava (head, neck, chest, upper limbs) b. inferior vena cava (lower parts of body)
+
+c. coronary sinus (coronary vessels)
+
+
+
+
+
+- Pulmonary circulation
+
+
+
+
+
+44
+
+• Special Circulations
+
+
+
+- Hepatic portal circulation
+
+1. picks up nutrients absorbed from digestive tract and brings them to liver a. liver processes and stores nutrients
+
+b. breaks down toxins
+
+
+
+
+
+- Fetal circulation
+
+1. fetal respiratory organ is the placenta
+
+a. gets nutrients and oxygen from mother's blood b. does not need to send much blood through pulmonary circuit 2. must send blood to and from placenta
+
+a. two umbilical arteries
+
+1) branch from internal iliac arteries
+
+2) carry blood to placenta
+
+b. one umbilical vein
+
+1) brings blood from placenta to fetus
+
+2) some blood goes to hepatic portal vein so liver can process 3) most diverted to a shunt called ductus venosus 4) eventually goes to inferior vena cava then heart 3. two shunts divert blood away from the pulmonary circuit a. foramen ovale
+
+1) hole in interatrial septum with a valve (blood goes from right atrium → left atrium) 2) a bit less than half the blood entering the heart is diverted this way b. ductus arteriosus
+
+1) a branch from the pulmonary trunk to the aorta 2) blood flows to the rest of the body
+
+
+
+4. postnatal changes (begin immediately)
+
+a. umbilical arteries → medial umbilical ligaments b. umbilical vein → ligamentum teres (round ligament) c. ductus venosus → ligamentum venosum
+
+d. foramen ovale → fossa ovalis
+
+e. ductus arteriosus → ligamentum arteriosum
+
+1) with first breaths, ductus arteriosus constricts, more blood in left atrium raises pressure and keeps foramen ovale closed until completely fused at about one year 45
+
+Chapter 21
+
+
+
+
+
+Lymphatic System
+
+
+• Lymphatic Vessels and Lymph
+
+
+
+- Collect excess fluid in tissues and return it to bloodstream
+
+
+
+
+
+- Lymph is basically the same as interstitial fluid (once in lymphatic vessels, it's called lymph)
+
+
+
+
+
+- Lymphatic vessels (lymphatics)
+
+1. begin at lymphatic capillaries (initial lymphatics) a. closed-ended vessels
+
+b. found most anywhere capillary beds are (not in avascular tissues, not in CNS, red bone marrow, parts of spleen)
+
+c. very permeable
+
+1) constructed with overlapping cells that act as one-way valves 2) cells of lymphatic capillaries are attached to tissues by anchoring filaments; when excess interstitial fluid accumulates (edema) these pull on the cells and make the openings even bigger
+
+3) allow any leaked plasma proteins to return to blood 2. lymphatic collecting vessels
+
+a. lymph in lymphatic capillaries flows into larger vessels b. have 3 tunics, but very thin walls
+
+c. have valves similar to the ones in veins
+
+d. flow maintained mainly by squeezing from surrounding skeletal muscles (also smooth muscle of vessels, also breathing - the lymph flows toward low pressure of thoracic region)
+
+
+
+3. lymph nodes
+
+a. filters lymph, catches invaders
+
+
+
+4. lymphatic trunks drain large areas of body 5. lymphatic ducts
+
+a. thoracic duct
+
+1) main collecting duct for lymph
+
+2) receives lymph from left side of upper body, entire body inferior to ribs 3) begins at cisterna chyli
+
+4) empties into subclavian vein
+
+b. right lymphatic duct
+
+1) receives lymph from upper right side of body 2) empties into right subclavian vein
+
+
+
+• Lymphoid Organs and Tissues
+
+
+
+- Lymph nodes
+
+1. found throughout body
+
+a. lots in neck, axillary region and groin
+
+2. structure
+
+a. capsule made of dense fibrous CT extends into node as trabeculae, which form compartments
+
+b. inner portions supported by reticular tissue c. cortex
+
+1) lymph sinuses (filter lymph)
+
+2) lymphoid tissue - has lots of lymphocytes and other defense cells, has germinal center where B lymphocytes reproduce during an immune response d. medulla has lymphocytes and other defense cells 46
+
+3. lymph flows in through afferent lymphatic vessels, through sinuses, exits through efferent lymphatic vessels
+
+4. catch particles in lymph (trapped in reticular fibers) a. macrophages destroy particles
+
+b. immune responses are activated, lymphocytes can leave node and move around the body
+
+
+
+
+
+- Red bone marrow
+
+1. produces blood cells
+
+2. reticular tissue and cells
+
+
+
+
+
+- Thymus gland
+
+1. T lymphocytes migrate here and go through a maturing process signaled by thymic hormones 2. posterior to sternum
+
+3. reticular tissue and cells
+
+
+
+
+
+- Spleen
+
+1. has capsule with trabeculae, reticular tissue, lots of fibroblasts 2. other cells include RBCs, macrophages, lymphocytes and other WBCs 3. functions
+
+a. houses defense cells and immune responses are activated b. breaks down old blood cells (RBCs, WBCs, platelets) c. stores platelets
+
+
+
+
+
+- Lymphoid nodules
+
+1. concentrations of lymphatic tissue, no capsule 2. in lamina propria of mucous membranes (mucosa-associated lymphoid tissue or MALT) a. gastrointestinal tract (gut-associated lymphoid tissue or GALT) b. respiratory tract
+
+c. urinary tract
+
+d. reproductive tract
+
+e. tonsils
+
+3. houses defense cells and destroys invaders
+
+
+
+
+
+- Appendix
+
+1. piece of the first part of the large intestine 2. similar to lymphoid nodules
+
+
+
+
+
+47
+
+Chapter 22
+
+
+
+
+
+Respiratory System
+
+
+• Basics
+
+
+
+- Two zones
+
+1. conducting zone (air passages)
+
+2. respiratory zone (site of gas exchange)
+
+
+
+
+
+- Function
+
+1. gas exchange (O2 in, CO2 out)
+
+2. other functions such as acid/base balance, route for water and heat loss
+
+
+
+
+
+- Four major processes
+
+1. pulmonary ventilation (breathing)
+
+2. external respiration
+
+a. gas exchange between lung air sacs and blood 3. gas transport
+
+a. cardiovascular system carries O2 to tissues and CO2 back to lungs 4. internal respiration
+
+a. gas exchange between blood and tissues
+
+
+
+• Nose
+
+
+
+- Functions
+
+1. airway
+
+2. moistens, warms and filters air
+
+
+
+
+
+- External nose
+
+1. bone and hyaline cartilage
+
+
+
+
+
+- Nasal cavity
+
+1. air enters by external nares (nostrils)
+
+2. divided by nasal septum (cartilage and bone) 3. contains olfactory mucosa and respiratory mucosa a. respiratory mucosa is pseudostratified ciliated columnar epithelium b. debris is trapped in mucus and can be swallowed or spit out 4. nasal conchae
+
+a. projections in cavity (soft tissue and bone) b. allow air to bounce around, so most debris is caught by mucosa 5. internal nares (posterior nasal aperture) open to throat
+
+
+
+• Pharynx (throat)
+
+
+
+- Air passageway
+
+
+
+
+
+- Three parts
+
+1. nasopharynx
+
+a. pseudostratified ciliated columnar epithelium b. pharyngeal tonsils (adenoids) in posterior walls c. uvula closes it off during swallowing
+
+2. oropharynx
+
+a. also a food passageway
+
+b. stratified squamous epithelium
+
+c. palatine and lingual tonsils
+
+3. laryngopharynx
+
+a. also a food passageway
+
+b. stratified squamous epithelium
+
+
+
+
+
+48
+
+• Larynx (voice box)
+
+
+
+- Air passageway
+
+
+
+- Made up of cartilages, ligaments, muscles
+
+
+
+- Epiglottis
+
+1. elastic cartilage flap that prevents food from entering trachea
+
+
+
+- Glottis
+
+1. contains the vocal folds
+
+a. elastic fibers running between cartilages under the mucosa b. vibrate as air passes by
+
+c. space between called rima glottidis
+
+
+
+- Mucosa above vocal folds is stratified squamous, below is pseudostratified ciliated columnar
+
+
+
+• Trachea
+
+
+
+- Air passageway
+
+
+
+
+
+- Three layers
+
+1. mucosa
+
+a. pseudostratified ciliated columnar, lots of goblet cells 2. submucosa
+
+a. areolar CT, seromucous glands
+
+3. adventitia
+
+a. CT with rings of hyaline cartilage
+
+b. cartilage keeps trachea open
+
+
+
+• Bronchi and bronchial tree
+
+
+
+- Right and left primary bronchi
+
+
+
+
+
+- Secondary bronchi are branches that supply each lobe of lung (3 right, 2 left)
+
+
+
+
+
+- Tertiary (segmental) bronchi are further branches
+
+
+
+
+
+- Branches finally lead to bronchioles which are <1 mm in diameter
+
+
+
+
+
+- Terminal bronchioles (<.5 mm diameter) lead to air sacs of lungs
+
+
+
+
+
+- Walls of bronchi
+
+1. past primary bronchi cartilage rings become irregular plates of cartilage (no cartilage in smallest bronchioles)
+
+2. whole tree surrounded with elastic fibers
+
+3. smooth muscle becomes more important as the tree branches 4. epithelium changes to columnar and cuboidal in terminal bronchioles a. no cilia in smallest bronchioles, macrophages take on role of debris removal
+
+
+
+• Lungs
+
+
+
+- Three right lobes, two left
+
+
+
+
+
+- Covered by plurae
+
+1. visceral and parietal layers, pleural fluid between decreases friction
+
+
+
+
+
+- Terminal bronchioles lead to alveoli (air sacs)
+
+
+
+- Respiratory membrane is a thin layer for gas exchange, includes capillary walls
+
+
+
+
+
+- Cells in alveoli
+
+1. simple squamous epithelium (type I cells) with thin basal lamina 2. scattered type II cells secrete surfactant, which helps alveoli stay open 3. macrophages
+
+
+
+49
+
+Chapter 23
+
+
+
+
+
+Digestive System
+
+
+• Basics
+
+
+
+- Two groups of organs
+
+1. alimentary canal (gastrointestinal or GI tract is a continuous tube with openings at mouth and anus)
+
+2. accessory organs (teeth, tongue, gallbladder, salivary glands, liver, pancreas)
+
+
+
+
+
+- Digestive processes
+
+1. ingestion (eating)
+
+2. motility (propulsion and mixing)
+
+3. digestion (breaking down food into smaller pieces) a. mechanical - teeth, stomach, small intestine b. chemical - enzymes break down large molecules 4. absorption (small molecules absorbed into blood and lymph) 5. defecation (eliminating wastes)
+
+
+
+
+
+- Peritoneum
+
+1. covers most organs below diaphragm
+
+a. visceral layer
+
+b. parietal layer
+
+c. peritoneal cavity with serous fluid
+
+2. mesenteries
+
+a. fused sheets of peritoneum that connect organs to abdominal wall and to each other 1) mesentery proper - small intestine to posterior abdominal wall 2) mesocolon - large intestine to posterior abdominal wall 3) falciform ligament - liver to anterior abdominal wall 4) lesser omentum - stomach to liver
+
+5) greater omentum - stomach to posterior abdominal wall 3. some organs are retroperitoneal (parts of intestines, pancreas, kidneys)
+
+
+
+
+
+- Tunics
+
+1. mucosa
+
+a. epithelium
+
+1) stratified squamous in mouth, esophagus, anal canal 2) simple columnar in stomach and intestines
+
+b. lamina propria
+
+1) areolar connective tissue, lots of capillaries and lymphatic vessels, lymphatic nodules c. muscularis mucosae
+
+1) thin layer of smooth muscle creates folds
+
+2. submucosa
+
+a. areolar connective tissue, lots of vessels and nerve fibers 3. muscularis externa
+
+a. thicker layers of smooth muscle
+
+1) circular, longitudinal layers
+
+2) nerve fibers
+
+4. serosa (visceral peritoneum)
+
+
+
+
+
+- intrinsic nerve plexuses (enteric nervous system) 1. network of nerves in digestive tract wall that regulate and coordinate (submucosal and myenteric)
+
+2. influenced by extrinsic autonomic fibers
+
+
+
+• Mouth
+
+
+
+- Vestibule - area between teeth and lips
+
+
+
+
+
+50
+
+
+
+- Oral cavity proper - area enclosed by teeth and gums
+
+
+
+- Palate
+
+1. hard (maxillae and palatine bones)
+
+2. soft (muscle)
+
+
+
+- Tongue
+
+1. mixes food with saliva, sense of taste
+
+
+
+- Salivary glands
+
+1. cleanse mouth and moisten food
+
+2. begin digestion of carbohydrates
+
+3. parotid, mandibular, sublingual
+
+
+
+• Pharynx
+
+
+
+- Oropharynx and laryngopharynx are food passageways
+
+
+
+• Esophagus
+
+
+
+- Food passageway
+
+
+
+
+
+- Deglutition (swallowing) accomplished by muscles in mouth, pharynx and esophagus
+
+
+
+
+
+- Submucosa contains mucus producing esophageal glands
+
+
+
+
+
+- Muscularis externa contains some skeletal muscle
+
+
+
+
+
+- Outer tunic called adventitia (fibrous CT)
+
+
+
+
+
+- Joins with stomach at gastroesophageal sphincter
+
+
+
+• Stomach
+
+
+
+- Consists of fundus, body and antrum
+
+
+
+
+
+- Functions
+
+1. mixing and storing food (makes chyme)
+
+2. begins protein digestion
+
+
+
+
+
+- Has an extra layer of muscle (oblique)
+
+
+
+
+
+- Joins with small intestine at pyloric sphincter
+
+
+
+
+
+- Large folds of mucosa called rugae
+
+
+
+
+
+- Mucosa has gastric pits which lead to gastric glands which secrete gastric juice 1. surface epithelial cells
+
+a. secrete protective mucus
+
+2. mucous neck cells
+
+a. secrete mucus and reproduce/differentiate into other cell types 3. parietal cells
+
+a. secrete HCl to activate enzymes
+
+b. secrete intrinsic factor for absorbing vitamin B12
+
+4. chief cells
+
+a. secrete inactive enzyme pepsinogen (becomes the active pepsin) 5. enteroendocrine cells
+
+a. G cells - make hormone gastrin
+
+
+
+
+
+51
+
+• Small Intestine
+
+
+
+- The major digestive organ (most chemical digestion, nearly all absorption)
+
+
+
+
+
+- Three parts
+
+1. duodenum
+
+a. retroperitoneal
+
+b. receives ducts from pancreas and liver
+
+c. most digestion & absorption occurs here 2. jejunum
+
+3. ileum
+
+a. joins to large intestine at ileocecal valve/sphincter
+
+
+
+
+
+- Mucosa
+
+1. modifications increase surface area available for absorption a. plicae circulares (circular folds) are deep folds of mucosa and submucosa b. villi are large projections of mucosa
+
+1) between villi are intestinal crypts
+
+c. microvilli are projections of mucosal cells (brush border, contains enzymes) d. mucus producing cells and enteroendocrine cells
+
+
+
+• Pancreas
+
+
+
+- Acinar cells secrete digestive enzymes (for protein, carbohydrates, fat)
+
+
+
+- Duct cells secrete alkaline fluid to neutralize acidity of chyme
+
+
+
+- Pancreatic duct and accessory duct lead to duodenum
+
+
+
+• Liver
+
+
+
+- Four lobes (right, left, caudate, quadrate)
+
+
+
+
+
+- Made up of lobules
+
+1. hexagonal arrangement of hepatocytes around a central vein 2. bile ducts carry bile to larger ducts which eventually fuse to form the common hepatic duct 3. Kupffer cells are macrophages
+
+
+
+
+
+- Bile duct joins with pancreatic duct at hepatopancreatic ampulla (empties into duodenum)
+
+
+
+
+
+- Bile is stored in gall bladder
+
+
+
+
+
+- Function of bile
+
+1. emulsify fats (break it up into small droplets to increase surface area available to digestive enzymes)
+
+2. make products of fat digestion soluble in intestine so they can be absorbed
+
+
+
+• Large intestine
+
+
+
+- Parts
+
+1. cecum (appendix attached)
+
+2. colon (ascending, transverse, descending, sigmoid) 3. rectum
+
+4. anal canal
+
+
+
+
+
+- Contains lots of goblet cells, little muscle 1. muscle arranged in bands
+
+a. forms sacs called haustra
+
+
+
+
+
+- Functions
+
+1. absorbs water, electrolytes, vitamins made by bacteria 2. elimination of wastes
+
+
+
+52
+
+Chapter 24
+
+
+
+
+
+Urinary System
+
+
+• Kidneys
+
+
+
+- Functions
+
+1. main excretory organ
+
+2. regulates blood volume and pressure
+
+3. regulates chemical makeup of blood (water/solutes, acid/base) 4. RBC production (makes erythropoietin)
+
+
+
+
+
+- Retroperitoneal
+
+
+
+
+
+- Renal hilus is cleft on medial surface
+
+1. other structures enter and leave here
+
+
+
+
+
+- Supporting tissue
+
+1. renal capsule
+
+a. fibrous CT on surface adds protection
+
+2. adipose tissue and renal fascia
+
+a. holds kidney in place, cushions, protects
+
+
+
+
+
+- Internal anatomy
+
+1. cortex (outer layer)
+
+2. medulla (made up of medullary pyramids)
+
+3. renal columns (cortex extends between pyramids) 4. sinus (space made by the hilus)
+
+a. contains vessels
+
+b. contains renal pelvis which drains collecting ducts (pelvis is continuous with ureter and has major and minor calyces)
+
+
+
+
+
+- Blood and nerve supply
+
+1. renal arteries deliver about 25% of cardiac output 2. renal veins
+
+3. renal plexus - network of nerve fibers
+
+
+
+
+
+- Nephron
+
+1. functional unit of kidney (about 1 million/kidney) 2. made up of renal corpuscle (including glomerulus) and renal tubule 3. glomerulus and parts of tubule
+
+a. glomerulus
+
+1) knot of capillaries surrounded by glomerular capsule (together called renal corpuscle) 2) filters blood
+
+3) fluid in tubule called filtrate
+
+b. proximal convoluted tubule (PCT)
+
+1) begins cuboidal epithelium
+
+2) lots of microvilli for reabsorption and secretion c. loop
+
+1) important in ability to concentrate urine and thus conserve water 2) squamous and cuboidal epithelium
+
+d. distal convoluted tubule (DCT)
+
+1) some microvilli
+
+e. collecting duct
+
+1) each drains several nephrons to the renal pelvis 4. most nephrons are cortical (lie mainly in the cortex) and some are juxtamedullary (loops dip to the end of the medulla, which is called the papilla) 5. microvasculature
+
+a. glomerulus has afferent and efferent arterioles, and pressure forces fluid into the nephron 53
+
+b. peritubular capillaries branch from efferent arteriole and supply kidney tissue with blood 6. juxtaglomerular apparatus
+
+a. specialized cells of DCT and arterioles that regulate kidney function
+
+
+
+• Ureters
+
+
+
+- Continuous with renal pelvis
+
+
+
+
+
+- Carry urine to bladder
+
+
+
+
+
+- Three layers
+
+1. mucosa (transitional epithelium)
+
+2. muscularis (circular and longitudinal layers) 3. adventitia
+
+
+
+• Bladder
+
+
+
+- Muscular sac that stores urine
+
+
+
+
+
+- Trigone
+
+1. area between ureters and urethra
+
+
+
+
+
+- Three layers
+
+1. mucosa (transitional epithelium)
+
+2. muscularis (called detrusor muscle, has longitudinal, circular, longitudinal layers) 3. adventitia
+
+
+
+• Urethra
+
+
+
+- Drains urine from bladder
+
+
+
+
+
+- Mucosal epithelium changes along length
+
+1. transitional
+
+2. stratified/pseudostratified columnar (in typical male) 3. stratified squamous
+
+
+
+
+
+- Two sphincter muscles control the flow of urine 1. internal urethral sphincter (smooth muscle, involuntary) 2. external urethral sphincter (skeletal muscle, voluntary) 54
+
+Chapter 25
+
+
+
+
+
+Reproductive System
+
+
+• Basics
+
+
+
+- Gonads are the primary sex organs and produce gametes 1. in typical female ovaries produce eggs
+
+2. in typical male testes produce sperm
+
+3. gonads also secrete sex hormones
+
+
+
+
+
+- Accessory reproductive organs
+
+
+
+• Biological sex (different from gender)
+
+- Genetic (chromosomal)
+
+- Internal and External Structures
+
+- Intersex and other differences from typical
+
+
+
+• Typical Male
+
+
+
+- Scrotum
+
+1. sac of skin with superficial fascia
+
+2. two compartments
+
+3. dartos muscle (wrinkles skin) and cremaster muscle (elevates testes) control temperature for sperm production
+
+
+
+
+
+- Testes
+
+1. outer serous membrane is tunica vaginalis
+
+2. inner fibrous layer is tunica albuginea
+
+a. divides each testis into a few hundred lobules 1) contain seminiferous tubules which produce sperm 2) sustentacular (Sertoli) cells support developing sperm 3) interstitial (Leydig) cells produce testosterone
+
+
+
+
+
+- Spermatic cord contains nerves, blood vessels, ducts
+
+
+
+
+
+- Duct system
+
+1. epididymis
+
+a. sperm mature and are stored
+
+2. ductus (vas) deferens
+
+a. runs through spermatic cord into pelvic cavity b. transports sperm
+
+3. urethra
+
+a. transports sperm out of body
+
+b. three regions - prostatic, membranous, penile
+
+
+
+
+
+- Accessory glands
+
+1. seminal vesicles - produce most of the semen (about 70%) 2. prostate - produces about 30% of semen
+
+3. bulbourethral glands - produce mucus (pre-ejaculate) 4. semen contains alkaline fluid to neutralize the acidity of the female reproductive tract, and fructose to provide sperm with an energy source
+
+
+
+
+
+- Penis
+
+1. delivers sperm to female tract
+
+2. contains spongy CT and smooth muscle filled with vascular spaces a. corpus spongiosum and corpora cavernosa - fill with blood during erection 55
+
+• Typical Female
+
+
+
+- Ovaries
+
+1. supported by ligaments
+
+2. surrounded by tunica albuginea covered with cuboidal cells 3. cortex has follicles with gametes
+
+4. medulla has blood vessels and nerves
+
+
+
+
+
+- Uterine tubes (Fallopian tubes or oviducts)
+
+1. receive ovulated oocyte
+
+2. site of fertilization
+
+3. open end is infundibulum (ciliated fimbriae sweep oocyte into tube) 4. walls have smooth muscle and thick folded mucosa (simple ciliated columnar, cilia move oocyte toward uterus)
+
+
+
+
+
+- Uterus
+
+1. receives, retains and nourishes fertilized egg 2. cervix opens to vagina
+
+a. cervical glands in mucosa secrete mucus that covers os (opening) 3. three layers
+
+a. perimetrium (visceral peritoneum)
+
+b. myometrium (smooth muscle - longitudinal, circular, oblique) c. endometrium (mucosa - simple columnar)
+
+1) fertilized egg implants here
+
+2) functional layer has cyclic changes
+
+3) basal layer forms a new functional layer each cycle 4) uterine glands are invaginations from lumen down to myometrium
+
+
+
+
+
+- Vagina
+
+1. passageway for baby and menstrual flow
+
+2. receives semen
+
+3. three layers
+
+a. mucosa (stratified squamous) has rugae
+
+b. muscularis (circular and longitudinal layers) c. adventitia
+
+4. hymen
+
+a. extension of vaginal mucosa at external opening
+
+
+
+
+
+- External genitalia (vulva)
+
+1. mons pubis
+
+2. labia majora
+
+3. labia minora
+
+4. vestibule - contains vaginal and urethral openings 5. clitoris - fills with blood during arousal
+
+
+
+
+
+- Breasts
+
+1. fat
+
+2. mammary glands
+
+
+
+
+
+56
+
+• Meiosis
+
+
+
+- Basics
+
+1. most cells in the body are diploid
+
+a. have two copies of each chromosome (2 sets) b. one set from mom, one from dad
+
+c. indicated by "2n"
+
+2. gametes are haploid
+
+a. only one set of chromosomes
+
+b. indicated by "n"
+
+c. fertilization → back to 2n
+
+3. key differences from mitosis
+
+a. two parts- meiosis I and meiosis II
+
+b. the amount of genetic material is cut in half because homologous chromosomes pair 57
+
+Chapter 17
+
+
+
+
+
+Endocrine System
+
+
+• Basics
+
+
+
+- Many interactions among endocrine glands
+
+
+
+
+
+- Interacts with nervous system
+
+
+
+
+
+- Acts via hormones
+
+1. chemical secreted into the blood that acts on target cells elsewhere in the body (only target cells have receptors for a particular hormone) 2. function at very low concentrations
+
+3. prolonged effects
+
+4. includes neurohormones
+
+5. tropic hormones regulate hormone secretion of other glands
+
+
+
+
+
+- General functions
+
+1. regulate metabolism
+
+2. water and electrolyte balance
+
+3. coping with stress
+
+4. growth and development
+
+5. reproduction
+
+6. RBC production
+
+7. digestion/absorption
+
+
+
+
+
+- Glands
+
+1. Hypothalamus/Pituitary (anterior and posterior) 2. Thyroid
+
+3. Parathyroid
+
+4. Adrenal (cortex and medulla)
+
+5. Pancreas
+
+6. Pineal
+
+7. Ovaries and Testes
+
+8. Thymus
+
+9. Other organs have endocrine function
+
+
+
+
+
+58
+
+
+
+
+
